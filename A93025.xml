@@ -1,0 +1,695 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation, or an account of the Imperial Court, by Sacredo, a noble Venetian-Senator. Given in an oration made by him to the Doge (or Duke) of Venice, in the Venetian Senate-House, of what things happened during the last war of the Emperor with the Turks, and during his embassy to the Emperor, at his return out of Germany to Venice. Done into English by T.G. Esq</title>
+            <author>Sagredo, Giovanni, 1616-ca. 1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93025</idno>
+            <idno type="STC">Wing S289A</idno>
+            <idno type="STC">ESTC R1667</idno>
+            <idno type="EEBO-CITATION">99895795</idno>
+            <idno type="PROQUEST">99895795</idno>
+            <idno type="VID">153533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2369:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation, or an account of the Imperial Court, by Sacredo, a noble Venetian-Senator. Given in an oration made by him to the Doge (or Duke) of Venice, in the Venetian Senate-House, of what things happened during the last war of the Emperor with the Turks, and during his embassy to the Emperor, at his return out of Germany to Venice. Done into English by T.G. Esq</title>
+                  <author>Sagredo, Giovanni, 1616-ca. 1696.</author>
+                  <author>T. G.</author>
+               </titleStmt>
+               <extent>[28], 88, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Crooke at the Green Dragon without Temple-bar, and G. Wells at the Sun in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts and courtiers --  Early works to 1800.</term>
+               <term>Venice (Italy) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:153533:1" rendition="simple:additions"/>
+               <pb facs="tcp:153533:1" rendition="simple:additions"/>
+               <pb facs="tcp:153533:2"/>
+               <pb facs="tcp:153533:2"/>
+               <pb facs="tcp:153533:3"/>
+               <pb facs="tcp:153533:3"/>
+A RELATION, Or an ACCOUNT of the <hi rend="blackletterType">Imperial Court,</hi> By <hi>SACREDO,</hi> a Noble <hi>Venetian</hi>-Senator.</p>
+            <p>Given in an <hi>Oration</hi> made by him to the <hi>Doge</hi> (or <hi>Duke)</hi> of VENICE, in the <hi>Venetian</hi> Senate-Houſe, of what things happened during the laſt War of the Emperor with the <hi>Turks,</hi> and during his Embaſſy to the Emperor, at his Re<g ref="char:EOLhyphen"/>turn out of <hi>Germany</hi> to <hi>Venice.</hi>
+            </p>
+            <p>Done into <hi>Engliſh</hi> by <hi>T. G.</hi> Esq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crooke</hi> at the <hi>Green Dragon</hi> without <hi>Temple-bar,</hi> and <hi>G. Wells</hi> at the <hi>Sun</hi> in St. <hi>Paul</hi>'s Church-yard, 1685.</p>
+            <pb facs="tcp:153533:4"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153533:4"/>
+            <head>TO MY TRULY NOBLE, AND WORTHY FRIEND Capt. <hi>William Legg.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>WHen I conſi<g ref="char:EOLhyphen"/>dered the Greatneſs of your Merit, and the ſuitable Character the
+<pb facs="tcp:153533:5"/>
+World gives you, I was in doubt with my ſelf whether I ſhould adventure to dedicate this ſmall Piece to you, had not I been well aſ<g ref="char:EOLhyphen"/>ſured of its real worth.</p>
+            <p>Your liberal and in<g ref="char:EOLhyphen"/>genuous Education, re<g ref="char:EOLhyphen"/>fined by your being bred up to <hi>Arms,</hi> and your Employment at <hi>Court,</hi> the two chief Schools of Experience (Advantages which by
+<pb facs="tcp:153533:5"/>
+your Induſtry you have to the utmoſt im<g ref="char:EOLhyphen"/>proved) makes you the only Perſon I could at preſent think of as a fit Judge of it; and the only Perſon (having born a Publick Cha<g ref="char:EOLhyphen"/>racter abroad) that I could believe could imitate or out-do our Author.</p>
+            <p>You, as well as our <hi>Sacredo,</hi> have laid Foun<g ref="char:EOLhyphen"/>dations adapted to a
+<pb facs="tcp:153533:6"/>
+future Greatneſs, and the excellent Qualifica<g ref="char:EOLhyphen"/>tions and Perfections you are Maſter of, have made you ſufficiently known to be an expert <hi>Souldier,</hi> and a com<g ref="char:EOLhyphen"/>pleat <hi>Courtier,</hi> highly eſteemed and beloved by all; ſo that when His Majeſty ſhall think fit to raiſe you to a higher Station, you will ſit eaſie: For you will have this Happineſs ad<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:153533:6"/>
+to the other you enjoy, to be <hi>Great,</hi> and not <hi>Envied.</hi>
+            </p>
+            <p>The Freedom you have allowed me, made me give you ſome ſmall Account of my future Studies, and here you have the firſt Eſſay of it: And as you are pleaſed to afford a Diverſion to the pre<g ref="char:EOLhyphen"/>ſent Courſe of them, by an extraordinary Favour and Kindneſs
+<pb facs="tcp:153533:7"/>
+to me, I ſhall endea<g ref="char:EOLhyphen"/>vour to make up the Loſs of Time by my future Diligence. Yet can any one be ſaid to loſe his Time, who is in the happy Oc<g ref="char:EOLhyphen"/>caſion of an Example of ſo great <hi>Vertue,</hi> whoſe <hi>Care</hi> and <hi>Induſtry</hi> is ſo early, that it ſeems to out-ſtrip the quickneſs of his Maſter's <hi>Bounty?</hi>
+            </p>
+            <p>All my aim in this my <hi>Dedication</hi> to you,
+<pb facs="tcp:153533:7"/>
+is only as I have recei<g ref="char:EOLhyphen"/>ved great already, and am ſtill in the opportu<g ref="char:EOLhyphen"/>nity of receiving greater <hi>Obligations</hi> from you; ſo I am in <hi>Gratitude</hi> and <hi>Duty</hi> bound publickly to own, and upon all occaſions ſhew my ſelf,</p>
+            <closer>
+               <dateline>
+                  <date>January 24, 1684/5</date>
+               </dateline>
+               <salute>Honoured Sir,</salute>
+               <signed>Your moſt faithful and moſt obedient Servant, <hi>Tho. Garfoote.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:153533:8"/>
+         </div>
+         <div type="translators_preface">
+            <pb facs="tcp:153533:8"/>
+            <head>THE Engliſh Tranſlator's PREFACE TO THE READER.</head>
+            <p>THIS ſmall Piece was writ by that famous Miniſter of the <hi>Vene<g ref="char:EOLhyphen"/>tian</hi> State, <hi>Sacredo,</hi> whoſe Abilities have raiſed him co that high Degree, that he be<g ref="char:EOLhyphen"/>name the preſent Duke of <hi>Ve<g ref="char:EOLhyphen"/>tice</hi>'s Competitor. A Piece writ with that Care and Curioſity, that the Remarks are like that
+<pb facs="tcp:153533:9"/>
+of <hi>Julius Caeſar</hi>'s concerning the fighting of the Ancient <hi>Gauls:</hi> 
+               <note place="margin">Heyl. Corm. l. 1. p. 148.</note> Laſting and permanent, and an indelible Character fix'd upon their Poſterity, and will conti<g ref="char:EOLhyphen"/>nue as long as the Air they breath in, and the Earth they tread on. The Remarks are ſuited to the probable Inconveniencies that may attend for the Future, as well as the time he wrot in; the Imperial Armies, that I dare boldly ſay, the Imperial Offi<g ref="char:EOLhyphen"/>cers need not have Recourſe to a Council of War if they do but read this Book: Or at leaſt, it will very much facilitate the Work. So as to give ready gueſ<g ref="char:EOLhyphen"/>ſes at the true Reaſons of the laſt Year's ill Succeſs, and how it came to paſs, that that Great and Magnanimous Prince, the preſent King of <hi>Poland,</hi> ſhould appear <hi>Coloſſus-like,</hi> to beſtride, not croſs the <hi>Nieſter,</hi> and leſſen
+<pb facs="tcp:153533:9"/>
+and eclipſe the radiant and re<g ref="char:EOLhyphen"/>ſplendent Glories of his former Atchievements.</p>
+            <p>Nor can we wonder the ſame Cauſes ſhould produce the ſame Effects. We live, I confeſs, in an intreaguing Age, and Policy, as well as all other Arts and Sciences is ſoaring to its higheſt Pitch; and however blindfold and groping in the Dark we may cenſure, repine and mur<g ref="char:EOLhyphen"/>mur at the Actions of great Prin<g ref="char:EOLhyphen"/>ces abroad, as our preſent Hu<g ref="char:EOLhyphen"/>mours or Affections lead us, a true and laſting Settlement of the Peace of <hi>Chriſtendom,</hi> is a bleſſing rather to be wiſhed than hoped for; and we muſt wait Gods leiſure e're it be ef<g ref="char:EOLhyphen"/>fected.</p>
+            <p>And tho' we here in theſe <hi>Iſlands</hi> enjoy Peace, and have been preſerved from utter Ruin and Deſtruction by Miracle as
+<pb facs="tcp:153533:10"/>
+well as His Majeſty; when as we might have been involved in as ill or worſe Circumſtances, than our Neighbour-Nations, is all entirely owing, next un<g ref="char:EOLhyphen"/>der God, to his Majeſties great Care, Prudence and Conduct.</p>
+            <p>The Misfortunes of the pre<g ref="char:EOLhyphen"/>ſent Times, are the Products and natural Reſults of the Miſ<g ref="char:EOLhyphen"/>carriages of an Age or two paſt. And it would a little ſedate the Minds of Men, if they would ſeriouſly look upon (with due Reverence and Eſteem) the great Goodneſs, and innate Cle<g ref="char:EOLhyphen"/>mency of His Majeſty. That he never ſuffered during His whole Reign over us (which God long continue amongſt us) any to be put to Death, but will<g ref="char:EOLhyphen"/>ful and malicious offenders; hath ſpared many.</p>
+            <p>
+               <pb facs="tcp:153533:10"/>
+Many Acts of his Grace and Favour may be inſtanced in, not one of Injuſtice or Oppreſ<g ref="char:EOLhyphen"/>ſion; and in all our foreign Characters of him, he is repre<g ref="char:EOLhyphen"/>ſented to us as one inclinable to Mercy, the Glory as well as Delight of Mankind, far from taking any delight in Blood; that when he might have ſcour<g ref="char:EOLhyphen"/>ged the <hi>Rebellion</hi> here, he gently and mildly received his own, and without noiſe and tumult, (ex<g ref="char:EOLhyphen"/>cept only the Acclamations of his Subjects, attended with good Wiſhes for his Happineſs, Health, Peace and Safety,) vouchſafed to Exerciſe his Regal Authority amongſt us, to the great Joy and Comfort of his People, and condeſcended ſo far as to receive us under the Wing of His Roy<g ref="char:EOLhyphen"/>al Protection.</p>
+            <p>
+               <pb facs="tcp:153533:11"/>
+If an <hi>Otho</hi> for one compaſ<g ref="char:EOLhyphen"/>ſionate <note place="margin">Read <hi>Mar<g ref="char:EOLhyphen"/>tial</hi>'s wit<g ref="char:EOLhyphen"/>ty Epi<g ref="char:EOLhyphen"/>gram up<g ref="char:EOLhyphen"/>on <hi>Otho, lib.</hi> 6. <hi>Epig.</hi> 32.</note> Act could have the Prai<g ref="char:EOLhyphen"/>ſes and Encomiums of all the Writers of his time; what ought His Majeſty to have for a con<g ref="char:EOLhyphen"/>ſtant, and continued Exerciſe of it?</p>
+            <p>Were he ambitious, he might make Pretences (as well as other Princes) abroad: For I leave any Engliſh man, nay, the whole World to judge, what might not this King of <hi>England</hi> do, whoſe Bravery in Feats of War is con<g ref="char:EOLhyphen"/>ſpicuous, witneſs that unfortu<g ref="char:EOLhyphen"/>nate Battel of <hi>Worceſter,</hi> ſuppor<g ref="char:EOLhyphen"/>ted by that Heroick and Magna<g ref="char:EOLhyphen"/>nimous Prince his Brother, the Duke of <hi>York;</hi> and once more make the <hi>Name</hi> and <hi>Title</hi> terrible abroad, as heretofore, in <hi>France.</hi> He is a Prince that is ſufficiently experienced in the Art of War, and has ſhew'd the <hi>World,</hi> that he knows how to behave himſelf,
+<pb facs="tcp:153533:11"/>
+both as a General by Land, or an Admiral by Sea. He is a Prince fit for the <hi>Engliſh</hi> Nation, anſwe<g ref="char:EOLhyphen"/>rable to their great courage; and if we do but call back to our Thoughts our late Army, we might believe we were capable of doing great things ſtill, ha<g ref="char:EOLhyphen"/>ving ſuch a Prince as this to con<g ref="char:EOLhyphen"/>duct and lead us on.</p>
+            <p>Yet however, His Majeſty ha<g ref="char:EOLhyphen"/>ving gained a laſting Reputati<g ref="char:EOLhyphen"/>on by his extraordinary Good<g ref="char:EOLhyphen"/>neſs already, I ſhall not endea<g ref="char:EOLhyphen"/>vour to alter His Majeſty's Thoughts; but leave him ſtill to purſue his former Methods of Mercy: For I really think, it is a much better Character, to be eſteemed the Delight and Darling of Mankind, than to be thought one that aims at the <hi>ſtriking Terror</hi> into the World; to be an <hi>Otho</hi> or a <hi>Titus,</hi> than to be a <hi>Nero</hi> or a <hi>Caligula;</hi> to be
+<pb facs="tcp:153533:12"/>
+the Preſerver and Defender, than the Depopulator and De<g ref="char:EOLhyphen"/>ſtroyer of Mankind.</p>
+            <p>A Prince that is ready to make us all happy, if we would. A Prince that conſiders, and hath Compaſſion upon the Infir<g ref="char:EOLhyphen"/>mities, Weakneſs and Follies of Mankind, conſiders the Heats and Animoſities bred and grown up amongſt us during our late Civil Wars, not yet throughly worn out; conſiders how all the Factions were again upon the Ferment, by reaſon of our late Confuſions and Diſorders; Con<g ref="char:EOLhyphen"/>ſiders (I ſay) all this; and yet governs with a Moderation and Juſtice commenſurate and adaequate to the vaſt Greatneſs of his Soul.</p>
+            <p>Oh! how ſweet and precious will his Name be upon the Re<g ref="char:EOLhyphen"/>cords of Time: Then ſhall the laſting Benefits he hath done
+<pb facs="tcp:153533:12"/>
+for <hi>England</hi> be demonſtrated, and appear, when the Malice of Evil Men againſt him, and De<g ref="char:EOLhyphen"/>traction ſhall ceaſe and be no more.</p>
+            <p>And however <hi>Prejudice</hi> or <hi>Education</hi> may ſway with ſome of us, or we may be byaſſed and debauched by the ſly and cun<g ref="char:EOLhyphen"/>ning Inſinuations of wicked and deſigning Men: Yet it is the Wiſdom and Intereſt, as well as Duty of the preſent Age, no lon<g ref="char:EOLhyphen"/>ger to offend ſo great Goodneſs, leaſt that the tired-out patience of His Majeſty (conſidering the infinite Injuries, and repeated Affronts the Royal Family hath received) may at laſt turn into Fury.</p>
+            <p>Did but <hi>Engliſh-men</hi> (I ſay) conſider the Bleſſing they enjoy in this turmoiled and perplexed Age of the World they live in, (having His Majeſty to reign
+<pb facs="tcp:153533:13"/>
+over them) they would hearti<g ref="char:EOLhyphen"/>ly pray to the Almighty to con<g ref="char:EOLhyphen"/>tinue to him that Divine Pro<g ref="char:EOLhyphen"/>tection and Aſſiſtance as hath hitherto accompanied him, to preſerve him from Danger, and that he may ſtill go on, and pro<g ref="char:EOLhyphen"/>ſper, and do all things as may be for his own, and his Peoples Good.</p>
+            <p>Should I let my ſelf looſe, and expatiate upon this Subject, this would ſwell to a Volume; but I forbear, and leave it to a <hi>Pe<g ref="char:EOLhyphen"/>rinchef,</hi> or a <hi>Dryden,</hi> to com<g ref="char:EOLhyphen"/>poſe and frame a Hiſtory and Character agreeable to ſo great, ſo good, and ſo gracious a Prince.</p>
+            <p>As for theſe two excellent per<g ref="char:EOLhyphen"/>ſons Dr. <hi>Perinchef</hi> and Mr. <hi>Dry<g ref="char:EOLhyphen"/>den,</hi> (as I mention) fit to under<g ref="char:EOLhyphen"/>take ſuch a Work. The firſt's in<g ref="char:EOLhyphen"/>comparable Panegyrick upon King <hi>Charles</hi> the Firſt, will make
+<pb facs="tcp:153533:13"/>
+him paſs current. And as for Mr. <hi>Dryden,</hi> I hear he hath left of the Thoughts of Poetry, and intends to bend his Studies to<g ref="char:EOLhyphen"/>wards the writing of <hi>Engliſh</hi> Hiſtory. He hath out-done the Poets of his Time; and he may (for ought I know) out-doe, not only the Hiſtorians of this, but all other Times. And I ve<g ref="char:EOLhyphen"/>rily believe, he may probably acquit himſelf with a great deal of Honour Credit and Reputa<g ref="char:EOLhyphen"/>tion and ſufficiently anſwer the Expectation the World might have of one ſhould undertake ſo great a Work.</p>
+            <p>And thus I proceed to give you ſome ſmall Account further of this our <hi>Sacredo</hi>'s Book. It's a ſmall Hiſtorical Diſcourſe up<g ref="char:EOLhyphen"/>on what happened in the Com<g ref="char:EOLhyphen"/>paſs of two or three Years time, during the laſt War of the Em<g ref="char:EOLhyphen"/>peror with the <hi>Turks,</hi> and de<g ref="char:EOLhyphen"/>livered
+<pb facs="tcp:153533:14"/>
+by him in an Oration in the <hi>Venetian</hi> Senate; and certain<g ref="char:EOLhyphen"/>ly it is not the leaſt of the policies of this <hi>ſtate</hi> thus to exact a ſolemn Account of every one of their Embaſſadors, of their Manage<g ref="char:EOLhyphen"/>ment during their Embaſſies. It keeps their publick Miniſters abroad conſtantly upon Duty and Thought, how to acquit themſelves upon ſo ſolemn an Occaſion. A Charge that none but men of extraordinary parts can undertake and manage with Credit and Reputation to them<g ref="char:EOLhyphen"/>ſelves, and Satisfaction to the State: And in this they have the Advantage of Kings, becauſe they are by theſe means ſure to have their Buſineſs well done.</p>
+            <p>But even in this (by extra<g ref="char:EOLhyphen"/>ordinary Knowledge) hath His Majeſty out-done this wiſe Se<g ref="char:EOLhyphen"/>nate, by his Choice of Men fit<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:153533:14"/>
+qualified for that Employ, which have added a Luſtre and Reputation to us all.</p>
+            <p>My Lord <hi>Shaftsbury</hi> (as to his Majeſty's knowledge of men) once was pleaſed to do him that Right, in his Speech to my Lord <hi>Clifford</hi> (when he took his Oath as Treaſurer) as to ſay, <hi>'Tis a</hi> 
+               <note place="margin">5 Decem<g ref="char:EOLhyphen"/>ber, 1672.</note> 
+               <hi>great Honour, much beyond even the place it ſelf, that you are cho<g ref="char:EOLhyphen"/>ſen to it by this King, who, with<g ref="char:EOLhyphen"/>out Flattery, I may ſay is as great a Maſter in the Knowledge of Men and Things, as this or any other Age hath produced;</hi> and whe<g ref="char:EOLhyphen"/>ther he intended to flatter at the ſame time or no I cannot tell: I am ſure he found it ex<g ref="char:EOLhyphen"/>perimentally true to his Coſt, whilſt ruffled with paſſion, over<g ref="char:EOLhyphen"/>whelmed with prejudice, and buoyed up by a Faction (to ſay no worſe) he grew diſcontent<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <pb facs="tcp:153533:15"/>
+Now (I ſay) if theſe eminent Men that have from time to time been ſent abroad Embaſſa<g ref="char:EOLhyphen"/>dors, at their Return Home, were but to render an Account of their Embaſſies, before that Auguſt Aſſembly of His Maje<g ref="char:EOLhyphen"/>ſties Moſt Honourable Privy Council, their Orations would at leaſt afford a more particu<g ref="char:EOLhyphen"/>lar Account of His Majeſty's ex<g ref="char:EOLhyphen"/>traordinary Goodneſs.</p>
+            <p>Our Country-man, Mr. <hi>Ry<g ref="char:EOLhyphen"/>caut,</hi> hath certainly written well concerning the <hi>Turkiſh</hi> Affairs and Hiſtory; and even of this very time our <hi>Sacredo</hi> did. I confeſs he hath written very in<g ref="char:EOLhyphen"/>geniouſly, much like a Gentle<g ref="char:EOLhyphen"/>man, and in Favour of the Em<g ref="char:EOLhyphen"/>peror's Intereſts; but he tells you likewiſe it is but by Gueſs, Apprehenſion, not certain Knowledge; and therefore be<g ref="char:EOLhyphen"/>cauſe in many things he ſeems to
+<pb facs="tcp:153533:15"/>
+contradict Mr. <hi>Rycaut,</hi> I leave it to the Conſideration of the Reader, whether he may not believe our <hi>Sacredo</hi> had ſome Advantage that Mr. <hi>Rycaut</hi> wanted; and ſo probably may have written (as to theſe few particulars) more agreeable to Truth.</p>
+            <p>This Hiſtorical Diſcourſe (if I am not miſinformed) was ne<g ref="char:EOLhyphen"/>ver printed in the Language it was ſpoke; but by ſome means or other (got by ſome <hi>French<g ref="char:EOLhyphen"/>man)</hi> tranſlated and printed at <hi>Paris</hi> in the Year 1670: And why I ſhould at this time tranſ<g ref="char:EOLhyphen"/>late it, having been ſo long neg<g ref="char:EOLhyphen"/>lected by us <hi>Engliſh,</hi> who have of late been but over buſie Tranſlators; you may poſſi<g ref="char:EOLhyphen"/>bly ſay, if it had been a very curious piece, I certainly had been eaſed of this Trouble, ei<g ref="char:EOLhyphen"/>ther as to my ſelf or the World.
+<pb facs="tcp:153533:16"/>
+But in anſwer to this I confident<g ref="char:EOLhyphen"/>ly affirm, that I value my ſelf for being the firſt man that hath really found out the true worth of this Author. But yet with ſo much Submiſſion to the Pub<g ref="char:EOLhyphen"/>lick, that I leave it to you, as to this particular, and as to all other things I ſhall write upon this occaſion that are the Rea<g ref="char:EOLhyphen"/>der to judge.</p>
+            <p>All that I ſhall add further to the Reader, is, That this Book will prove a Book neceſſarily to be read to thoſe that intend to underſtand any thing juſtly aright, and as they ought to do, concerning the <hi>Turkiſh</hi> Affairs; and that it is as it were the Stan<g ref="char:EOLhyphen"/>dard to know the Meaſures of Things, as to the Truth of a Writer of <hi>Turkiſh</hi> Affairs and Hiſtory, of what is already paſt or to come.</p>
+         </div>
+         <div type="French_bookseller_to_the_reader">
+            <pb facs="tcp:153533:16"/>
+            <head>THE French Bookſeller TO THE READER.</head>
+            <p>'TIS hard to meet with a Relation more Cu<g ref="char:EOLhyphen"/>rious, or more cer<g ref="char:EOLhyphen"/>tain than this is<hi>:</hi> It derives it ſelf from too fair an Original to be ill received, and comes to me from too pure Hands, to be ſuſpected. Here you will find ſincerity governed by a great Underſtanding<hi>:</hi> But neither the one nor the other leaves any thing to the Curioſi<g ref="char:EOLhyphen"/>ty
+<pb facs="tcp:153533:17"/>
+of the Reader to wiſh for, nor any thing to doubt of as to the Truth of the Hiſtory: by the Succeſs of this firſt Relati<g ref="char:EOLhyphen"/>on, I ſhall be put into a Con<g ref="char:EOLhyphen"/>dition to give the publick ma<g ref="char:EOLhyphen"/>ny others to the ſame Effect, though made by different Per<g ref="char:EOLhyphen"/>ſons, and I ſhall let you ſee, that there are many remarkable E<g ref="char:EOLhyphen"/>vents in theſe particular Pieces, either forgot or unknown to the beſt ſort of Authors, or diſſembled by concerned or cor<g ref="char:EOLhyphen"/>rupted Writets.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb n="1" facs="tcp:153533:17"/>
+            <head>
+               <hi>SACREDO</hi>'S ORATION.</head>
+            <opener>
+               <salute>Moſt Serene Prince,</salute>
+            </opener>
+            <p>I Shall not enlarge my ſelf to repreſent to your Se<g ref="char:EOLhyphen"/>renity the Foreign and Civil Wars, that Religi<g ref="char:EOLhyphen"/>on hath cauſed in the Empire; and how theſe two Evils have weakened ſo formi<g ref="char:EOLhyphen"/>dable a Power; neither ſhall I loſe any time to enumerate the divers Jealouſies of the Electors, and Princes of <hi>Germany,</hi> nor
+<pb n="2" facs="tcp:153533:18"/>
+the bad Condition they have reduced the Emperor to. A <note place="margin">The be<g ref="char:EOLhyphen"/>ginning of the Em<g ref="char:EOLhyphen"/>peror's Character.</note> Prince in his own Nature very little capable to defend himſelf, His Subjects or His Friends from the divers enterprizes of His Neighbours.</p>
+            <p>Theſe particulars have been ſo exactly treated of by thoſe that have writ before me, that it would be too tedious to make a Rehearſal. I ſhall reduce my ſelf therefore to a ſuccinct reci<g ref="char:EOLhyphen"/>tal of thoſe things that are new<g ref="char:EOLhyphen"/>eſt, and leſs known; and there are very few that have either eſcaped my Care or Curioſity: For I have ſeen the Cauſes bred, and their Progreſs die; and by a very rare Fortune in the time of one only Embaſſie, I have been a Witneſs and Spectator of both War and Peace: Yet a<g ref="char:EOLhyphen"/>mongſt ſo great a Number of things, I ſhall meddle only with
+<pb n="3" facs="tcp:153533:18"/>
+thoſe that particularly reguard the Intereſts of your Serenity, in Relation to your Territories that border on the <hi>Ottoman</hi> to<g ref="char:EOLhyphen"/>wards the Sea, and of the Empe<g ref="char:EOLhyphen"/>ror towards the Land.</p>
+            <p>Since that the <hi>Ottoman</hi> Sect, by his continual Progreſſes, Victories and Conqueſts gained over <hi>Aſia,</hi> this triumphant Pu<g ref="char:EOLhyphen"/>iſſance, <note place="margin">Progreſs of the <hi>Ot<g ref="char:EOLhyphen"/>toman</hi> Greatneſs.</note> not content with the Extent of its firſt Succeſſes, turned its ambitious Deſigns towards <hi>Europe. Solyman</hi> in<g ref="char:EOLhyphen"/>vaded <hi>Hungary; Selim,</hi> his <note place="margin">
+                  <hi>A. D.</hi> 1529. <hi>vid. Cluv. p.</hi> 593.</note> Succeſſor the Kingdom of <hi>Cy<g ref="char:EOLhyphen"/>prus;</hi> the one and the other <note place="margin">
+                  <hi>A. D.</hi> 1547. <hi>vid. Cluv. p.</hi> 615.</note> having for their Object the Ruine of theſe two Powers that were able to give a Check <note place="margin">Their De<g ref="char:EOLhyphen"/>ſigns.</note> to their vaſt Ambition: The Firſt, that of the Houſe of <hi>Au<g ref="char:EOLhyphen"/>ſtria</hi> by Land; the Second, that of this Republick by Sea.</p>
+            <p>
+               <pb n="4" facs="tcp:153533:19"/>
+It preſently appeared, that <note place="margin">A ſtrict Allyance is the joint Intereſt of the Em<g ref="char:EOLhyphen"/>pire and Republick of <hi>Venice.</hi>
+               </note> to oppoſe ſo dreadful a Power, it were neceſſary to make a ſtrict Allyance for the common De<g ref="char:EOLhyphen"/>fence between the Emperor and your Serenity, the more aſſu<g ref="char:EOLhyphen"/>redly to keep off the Invaſions and Forces of the <hi>Ottomans,</hi> that every one knows have ſworn the Deſtruction of thoſe two Empires.</p>
+            <p>The unhappy Differences of Chriſtendom, facilitates to the <hi>Turks</hi> all thoſe ſorts of Enter<g ref="char:EOLhyphen"/>priſes which in divers places they have had proſperous Suc<g ref="char:EOLhyphen"/>ceſs. They attack ſometimes the Emperor, ſometimes your Serenity, the one and the other ſeparately, and their Appetite comes in eating: They ſet up<g ref="char:EOLhyphen"/>on divers Provinces, when paſ<g ref="char:EOLhyphen"/>ſing from Conqueſt to Conqueſt, they by ſo much always dimi<g ref="char:EOLhyphen"/>niſh
+<pb n="5" facs="tcp:153533:19"/>
+the Forces of Chriſtendom, and more and more aſſure to themſelves the Roots and Foun<g ref="char:EOLhyphen"/>dations of their Dominion.</p>
+            <p>Thus the greateſt part of <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> being invaded by <hi>Solyman</hi> the Second, the <hi>Turks</hi> have pre<g ref="char:EOLhyphen"/>vailed, and extended very far their Conqueſts in <hi>Europe</hi> by Land. In proceſs of Time <hi>Se<g ref="char:EOLhyphen"/>lim</hi> gets poſſeſſion of the King<g ref="char:EOLhyphen"/>dom of <hi>Cyprus. Ibrahim</hi> enter'd <note place="margin">The <hi>Turks</hi> enter'd <hi>Candia, A. D.</hi> 1645. <hi>Cluver. p.</hi> 761. <hi>Mahom.</hi> 3. fell into <hi>Tranſilva<g ref="char:EOLhyphen"/>nia,</hi> 1599. <hi>Cluv. p.</hi> 632</note> 
+               <hi>Candia,</hi> and <hi>Mahomet</hi> the Third <hi>Tranſilvania.</hi> Theſe glorious Succeſſes by Sea and Land con<g ref="char:EOLhyphen"/>tinuing as it were Link by Link, the Chain of their Conqueſts have made appear, that their Deſigns are for an Univerſal Monarchy, and have made the Chriſtians afraid of their Irons and Slavery. In Effect, being Maſters of the Kingdom of <hi>Can<g ref="char:EOLhyphen"/>dia,</hi> 
+               <note n="*" place="margin">Effects of the loſs of <hi>Candia</hi> ſurrender<g ref="char:EOLhyphen"/>ed 27. <hi>Sep.</hi> 1669.</note> they will have the Sea
+<pb n="6" facs="tcp:153533:20"/>
+open, and may carry their Am<g ref="char:EOLhyphen"/>bition whereſoever they will. <hi>Tranſilvania</hi> already by the Conqueſt of <hi>Warradin,</hi> and the <note place="margin">
+                  <hi>Warradin</hi> ſurrender<g ref="char:EOLhyphen"/>ed 6 <hi>Aug.</hi> 1660. <hi>Clu. p.</hi> 845.</note> eſtabliſhing of Prince <note n="†" place="margin">
+                  <hi>Ann. D.</hi> 1661. <hi>Flo. Hung. pag.</hi> 284.</note> 
+               <hi>Abafti,</hi> their Slave, is entirely ſubmit<g ref="char:EOLhyphen"/>ted to them; and they keep in no leſs Awe <hi>Hungary,</hi> by the ta<g ref="char:EOLhyphen"/>king <note n="‖" place="margin">Surren<g ref="char:EOLhyphen"/>dered 26. <hi>Sep.</hi> 1663. <hi>Flo. Hung. p.</hi> 287. <hi>Clu. p.</hi> 866.</note> 
+               <hi>Newhauſel,</hi> and the ſeveral Baſtions with which they have fortified it, and aggrandiz'd the Suburbs; and it is eaſie to per<g ref="char:EOLhyphen"/>ceive where they would make the Seat of War, could they but meet with a more happy Attack of <hi>Vienna,</hi> than that which was attempted by <note n="*" place="margin">
+                  <hi>Ann. D.</hi> 1529. <hi>Flo. Hun. p.</hi> 142.</note> 
+               <hi>So<g ref="char:EOLhyphen"/>lyman</hi> in the Age paſt, there is nothing can happen of great<g ref="char:EOLhyphen"/>er Importance to be afraid of, and the loſs of this <note n="†" place="margin">The preſerva<g ref="char:EOLhyphen"/>tion of <hi>Vi<g ref="char:EOLhyphen"/>enna</hi> of great im<g ref="char:EOLhyphen"/>portance to all <hi>Chri<g ref="char:EOLhyphen"/>ſtendom.</hi>
+               </note> Capital City would be fatal to all Chri<g ref="char:EOLhyphen"/>ſtendom; and though it ſeems that the <hi>Ottoman</hi> Empire hath not at preſent ſuch numerous
+<pb n="7" facs="tcp:153533:20"/>
+Forces as at other times it hath had, becauſe we do not now ſee an Army of three hundred thouſand Combatants, as was that of <hi>Solyman,</hi> when he firſt ſet foot in <hi>Hungary;</hi> or of five hundred thouſand, as was that of <hi>Amurath</hi> before <hi>Babylon.</hi> This doth not proceed from the Weakneſs of this Empire; 'tis far from being leſs puiſſant than it was in thoſe times; but is ra<g ref="char:EOLhyphen"/>ther much more conſiderable, by all its new Conqueſts, and by the Increaſe of the Number of Kingdoms and States, that are ſubject to it. The preſent weak<g ref="char:EOLhyphen"/>neſs <note place="margin">Preſent State of the <hi>Turk<g ref="char:EOLhyphen"/>iſh</hi> affairs.</note> is very apparent, and the Continuance of it very uncer<g ref="char:EOLhyphen"/>tain, and proceeds only from <note place="margin">Why their Forces are ſo much diminiſh<g ref="char:EOLhyphen"/>ed.</note> the Diſorder of the Head; but the Body hath loſt nothing of its Force, nor of being in a good Condition, notwithſtanding the Spirits are languiſhing, and the
+<pb n="8" facs="tcp:153533:21"/>
+Heart abated, ſo that the Mo<g ref="char:EOLhyphen"/>tions of it are ſlower than or<g ref="char:EOLhyphen"/>dinary; and that Vivacity of the former <hi>Ottoman</hi> Monarchs appears almoſt extinct. And in ſhort, it ſeems, that ſince the Death of <hi>Amurath,</hi> there hath not been a <hi>Sultan</hi> worthy the Name of a <hi>Grand Seignior,</hi> nor of ſo great an Empire, or one that hath been either a warriour, or addicted to War. The <hi>Turks,</hi> as they have not encreaſed, or enlarged their Limits, ſo they have loſt nothing<hi>:</hi> Their Lan<g ref="char:EOLhyphen"/>guiſhing coſts their Empire no<g ref="char:EOLhyphen"/>thing, and leaves them in a con<g ref="char:EOLhyphen"/>dition of re-taking their former Vigor, as ſoon as they ſhall have a Prince that is a Warriour, and loves War; and one that in I<g ref="char:EOLhyphen"/>mitation of their Anceſtors, ſhall ſeek for Glory in the Head of his Armies, in the midſt of Battels, and whoſe Example ſhould in<g ref="char:EOLhyphen"/>ſpire
+<pb n="9" facs="tcp:153533:21"/>
+Courage and Bravery in the Souldiers: So that the Lan<g ref="char:EOLhyphen"/>guiſhing of this vaſt Body pro<g ref="char:EOLhyphen"/>ceeds from the Weakneſs of their Chief; but at the firſt Change this People will ſoon re-take their former Force and Vigor.</p>
+            <p>The <hi>Turkiſh</hi> Militia is com<g ref="char:EOLhyphen"/>poſed <note place="margin">Of the <hi>Turkiſh</hi> Militia.</note> chiefly of <hi>Aſiaticks</hi> and <hi>Europeans;</hi> the firſt are for the moſt part Cavalry; the ſecond are for the moſt part Muſque<g ref="char:EOLhyphen"/>teers, which they raiſe upon the Frontiers, and have always their Arms ready, and are naturally more addicted to War than the others.</p>
+            <p>However the eſſential <hi>Baſis,</hi> and principal Cauſe of ſo many Victories obtained by the <hi>Otto<g ref="char:EOLhyphen"/>mans,</hi> hath been the exact Ob<g ref="char:EOLhyphen"/>ſervation of their Policy, and
+<pb n="10" facs="tcp:153533:22"/>
+of their Diſcipline; the Brave<g ref="char:EOLhyphen"/>ry of their Souldiers, and above all their Janizaries, which are choice Troops, and a Body of people choſen, and of Courage. It is to be obſerved, that the <hi>Turks</hi> uſe not to do as the Chri<g ref="char:EOLhyphen"/>ſtian <note place="margin">An over<g ref="char:EOLhyphen"/>ſight of the Chri<g ref="char:EOLhyphen"/>ſtian Offi<g ref="char:EOLhyphen"/>cers in ge<g ref="char:EOLhyphen"/>neral.</note> Officers, who care no far<g ref="char:EOLhyphen"/>ther than to get the Number of Men they have undertaken for<hi>:</hi> And for a little Gain content themſelves with the firſt that come, and liſt miſerable Peaſants, Beggars, new cloathing them, and ſuch as they can meet with; ſo that neither the one, nor the other, have any Fitneſs or Incli<g ref="char:EOLhyphen"/>nation for War; and do only endeavour to encreaſe their Troops of all ſorts of indifferent people, for their own profit, more than the Service of their Prince.</p>
+            <p>
+               <pb n="11" facs="tcp:153533:22"/>
+On the contrary the <hi>Turks</hi> 
+               <note place="margin">The <hi>Turks</hi> way of Diſcipline.</note> chuſe out of the Children of the Chriſtian Slaves, ſuch whoſe Bo<g ref="char:EOLhyphen"/>dies are beſt proportion'd and ſtrongeſt, which they care<g ref="char:EOLhyphen"/>fully breed up in the <hi>Seraglio,</hi> to the Love and Diſcipline of War, and conduct them to Arms as ſoon as they are judged ca<g ref="char:EOLhyphen"/>pable, and they afford the bra<g ref="char:EOLhyphen"/>veſt and moſt expert Souldiers, and are generally the Inſtru<g ref="char:EOLhyphen"/>ments of the greateſt Succeſſes, and Gainers of doubtful Battels. It muſt alſo be avowed, that the blind Obedience of theſe In<g ref="char:EOLhyphen"/>fidels doth not a little contri<g ref="char:EOLhyphen"/>bute to the proſperity of the State of their Affairs, and their Combats; and are ſtrangely pro<g ref="char:EOLhyphen"/>fited by our Examples, Inventi<g ref="char:EOLhyphen"/>ons and Machines, and of divers Inſtructions that the Renegades from time to time give them, both as to what concerns Artil<g ref="char:EOLhyphen"/>lery,
+<pb n="12" facs="tcp:153533:23"/>
+or artificial Fires; and as to <note place="margin">Their Im<g ref="char:EOLhyphen"/>provement in Fire-works, and other Warlike Exerciſes.</note> what regards the ordering of Sieges, Marches, Camps, and other Exerciſes of War<hi>:</hi> For without theſe the <hi>Ottomans</hi> would not have neceſſary Un<g ref="char:EOLhyphen"/>derſtanding. Of which every one was entirely perſwaded at the laſt Siege of <hi>Caniſa,</hi> where <note place="margin">The Rea<g ref="char:EOLhyphen"/>ſon of the Chriſtians Miſcarri<g ref="char:EOLhyphen"/>age at the laſt Siege of <hi>Caniſa.</hi>
+               </note> the Commanders readily mak<g ref="char:EOLhyphen"/>ing uſe of the Experience of Re<g ref="char:EOLhyphen"/>negades, made a brave and ad<g ref="char:EOLhyphen"/>mirable Reſiſtance, and baffled the Art of the moſt experienced Chriſtian-Engineers. That which is remarkable amongſt the <hi>Turk<g ref="char:EOLhyphen"/>iſh</hi> Armies, they never want Proviſions, let them be com<g ref="char:EOLhyphen"/>poſed of never ſo great a Num<g ref="char:EOLhyphen"/>ber; or whatever happens to them, this Diſorder befalls on<g ref="char:EOLhyphen"/>ly the Chriſtian Troops.</p>
+            <p>
+               <pb n="13" facs="tcp:153533:23"/>
+How often hath it happened <note place="margin">The <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> and <hi>Turks</hi> compared as to their Proviſions for the Soldiery.</note> to thoſe of the Emperor? How often have they wanted Bread? How often have their Armies been in a manner broken? The <hi>Turks</hi> know not what it is to have ſuch Diſgraces; whether it be by their great Oeconomy, or by their commendable and natural Sobriety, they never want any thing<hi>:</hi> For if the Or<g ref="char:EOLhyphen"/>der and Care of their Officers procure them abundance of proviſions, the Souldier, by his Sobriety, contributes much to their Duration; and with a Handful of Rice, and dried Fleſh, or beat into Powder only, without any other Beve<g ref="char:EOLhyphen"/>rage than that of Freſh Water, he is ſatisfied, and ſufficiently nouriſhed. Not but that they have Sherbet for people of Qua<g ref="char:EOLhyphen"/>lity; but they can be without it, and make it their Glory to
+<pb n="14" facs="tcp:153533:24"/>
+abſtain from it, for to make them appear more fit for War and Fatigue. One cannot ſay ſo of the Chriſtian Armies, much leſs of the <hi>German</hi>'s, who are always at their Meals, and as it were buried in Gluttony and Drunk<g ref="char:EOLhyphen"/>enneſs.</p>
+            <p>The Emperor enter'd into this war with the <hi>Turks</hi> with too great <note place="margin">Cenſures upon the Emperor's Proceed<g ref="char:EOLhyphen"/>ings in the beginning of the War.</note> an Affectation to avoid it: For if at the beginning, as ſoon as the Port had framed a Deſign of in<g ref="char:EOLhyphen"/>vading <hi>Tranſilvania;</hi> and was not as yet fully reſolved, if the Emperor, I ſay, had made his <hi>Veterane</hi> Army, drawn out of many old Bodies ſince the laſt Peace of the Empire, advance, he had conſtrained the <hi>Turks</hi> to much more reaſonable Con<g ref="char:EOLhyphen"/>ditions, becauſe that the great<g ref="char:EOLhyphen"/>eſt part of them did diſapprove an open Breach with the Empe<g ref="char:EOLhyphen"/>ror.
+<pb n="15" facs="tcp:153533:24"/>
+But his Majeſty, follow<g ref="char:EOLhyphen"/>ing the faint hearted and weak Counſels of his Favourite, ap<g ref="char:EOLhyphen"/>peared ſo ſoft in his manner of Acting, and ſo intimidated with the bare appearances of a Rup<g ref="char:EOLhyphen"/>ture that he confirmed the <hi>Vi<g ref="char:EOLhyphen"/>ſier</hi> in his Deſign of making War, and puſhed on ſo much the more this Infidel, who was already too full of Hope, and almoſt aſ<g ref="char:EOLhyphen"/>ſured of good Succeſs againſt ſo feeble a Prince; and in a time when all Chriſtendom was in Combuſtion and Diſorder.</p>
+            <p>It will be equally ſuperfluous as well as troubleſom to repre<g ref="char:EOLhyphen"/>ſent the divers particularities to your Serenity, ſince that my Diſpatches have punctually en<g ref="char:EOLhyphen"/>formed you of the chief paſſa<g ref="char:EOLhyphen"/>ges of what happen'd.</p>
+            <p>
+               <pb n="16" facs="tcp:153533:25"/>
+The <hi>Viſier</hi> entered the <hi>Emperors</hi> 
+               <note place="margin">The <hi>Viſier</hi> falls into the Em<g ref="char:EOLhyphen"/>peror's Territories without reſiſtance.</note> 
+               <hi>Territories</hi> with Fifty Thouſand Foot, and Eight Thouſand Horſe. The firſt Year he found no reſiſt<g ref="char:EOLhyphen"/>ance; for the <hi>Germans</hi> ſhut them<g ref="char:EOLhyphen"/>ſelves up in fortified places, and quitted the Field; beſides, the <hi>Tartars,</hi> without any Hinder<g ref="char:EOLhyphen"/>ance, and with a great deal of Freedom, ran up and down the Country, and ruined chiefly <hi>Mo<g ref="char:EOLhyphen"/>ravia;</hi> and throwing of Arrows with lighted Matches tied to them upon the thatcht Houſes, <note place="margin">The cru<g ref="char:EOLhyphen"/>elty of the <hi>Tartars.</hi>
+               </note> they burnt an infinite Number of Villages, and carryed away Fifteen Thouſand Slaves, bind<g ref="char:EOLhyphen"/>ing the little Children together, &amp; laying them <hi>behind</hi> them upon their Horſes Backs. All was fil<g ref="char:EOLhyphen"/>led with Confuſion and Diſor<g ref="char:EOLhyphen"/>der. <hi>Vienna</hi> in a manner aban<g ref="char:EOLhyphen"/>doned: Above ſeventy Thou<g ref="char:EOLhyphen"/>ſand Inhabitants left it, and took away the beſt of their
+<pb n="17" facs="tcp:153533:25"/>
+Goods to ſave them, and to take refuge in places afar of, and ſe<g ref="char:EOLhyphen"/>cure againſt this Irruption. A great Number of theſe people ſtay'd at <hi>Lintz,</hi> the ways were fill'd with people in deſpair, who were equally preſs'd with fear &amp; famine, remained without Force, and ſome times without Life, in the midſt of the High-ways. The Ambaſſadors kept them<g ref="char:EOLhyphen"/>ſelves in a readyneſs to follow the Emperor to this City, in caſe the <hi>Turkiſh</hi> Army had ad<g ref="char:EOLhyphen"/>vanced towards <hi>Vienna,</hi> the on<g ref="char:EOLhyphen"/>ly place of Refuge; but the Ordinary Slothfulneſs of his Imperial Majeſty, made him one of the laſt to retire, altho' all were fill'd with pannick fear, and was the occaſion that the Capital City was not entirely forſaken by its Inhabitants.</p>
+            <p>
+               <pb n="18" facs="tcp:153533:26"/>
+At laſt a Courier put Cou<g ref="char:EOLhyphen"/>rage <note place="margin">
+                  <hi>Newhauſel</hi> loſt.</note> into the fainting, and per<g ref="char:EOLhyphen"/>plexed <hi>Germans,</hi> by bringing the News of the <hi>Turkiſh</hi> Armies march to <hi>Newhauſel;</hi> this City, notwithſtanding well provided with all things neceſſary, yield<g ref="char:EOLhyphen"/>ed to the force of the Infidels. The <hi>Viſier</hi> ſpared nothing of Bravery, or of Money; for he gave generouſly a hundred <hi>Rix Dollars</hi> a Head to the Janizaries, that ſhould fix upon a Breach the <hi>Turkiſh</hi> Standards, hoping by his Liberalities, the more readily to become Maſter of the Fortifications, and to be before<g ref="char:EOLhyphen"/>hand with <hi>Autumn;</hi> which ſtand<g ref="char:EOLhyphen"/>ing upon a Moroſs, would have rendered the Attack more diffi<g ref="char:EOLhyphen"/>cult, and the Succeſs much more doubtful. <note place="margin">The Rains hinder the fur<g ref="char:EOLhyphen"/>ther Pro<g ref="char:EOLhyphen"/>greſs of the <hi>Turks.</hi>
+               </note>
+            </p>
+            <p>The advantages of this Cam<g ref="char:EOLhyphen"/>pagne were notably retarded
+<pb n="19" facs="tcp:153533:26"/>
+by the Protection Heaven was pleaſed to afford the piety of the Emperor for to repair his and his Miniſters Negligence: It rained ſo abundantly that the ways were broken, ſo that the <hi>Viſier</hi> was conſtrained to defer his progreſs, and to make a halt at <hi>Buda,</hi> for at leaſt Fourty days, to have his Cannon drawn back. It is almoſt certain, that if God gave a fair Game to the <hi>Turks</hi> at firſt, he at the ſame time blind<g ref="char:EOLhyphen"/>ed them; and that if the <hi>Viſier,</hi> inſtead of attacking <hi>Newhauſel,</hi> 
+               <note place="margin">The miſe<g ref="char:EOLhyphen"/>rable con<g ref="char:EOLhyphen"/>dition of <hi>Vienna.</hi>
+               </note> had advanced in ſight of <hi>Vienna,</hi> he had found it without Provi<g ref="char:EOLhyphen"/>ſion, without Souldiers, and without Inhabitants; filled with Deſpair, Diſeaſes, and great Ne<g ref="char:EOLhyphen"/>ceſſities, open and expoſed to his Army, and entirely ſubmit<g ref="char:EOLhyphen"/>ted to his Diſpoſition, which he did not want being blamed for; and his Excuſe was (ſays he)
+<pb n="20" facs="tcp:153533:27"/>
+               <q>I could never have imagined, that the Defence of a Capital City, and well fortified, could poſſibly at the firſt and falſe Reports, have been ſo negli<g ref="char:EOLhyphen"/>gently and ſuddenly aban<g ref="char:EOLhyphen"/>doned.</q>
+            </p>
+            <p>At this time the Murmurs and <note place="margin">Com<g ref="char:EOLhyphen"/>plaints a<g ref="char:EOLhyphen"/>gainſt Count <hi>Por<g ref="char:EOLhyphen"/>tia.</hi>
+               </note> Complaints broke out againſt the Miniſtry of Count <hi>Portia,</hi> who remained as one aſleep in ſo great a Noiſe, and in the midſt of ſo many Alarms. To ſpeak <note place="margin">His Cha<g ref="char:EOLhyphen"/>racter.</note> Truth, his Shoulders were not broad enough to bear ſo great a Burthen: The deplorable Loſs of <hi>Newhauſel</hi> ended this unfor<g ref="char:EOLhyphen"/>tunate Campagne, and gave ſome Relaxation to the divers Inquie<g ref="char:EOLhyphen"/>tudes, and unworthy dejections of the Emperor's Spirit, reduced to look upon ſuch a Loſs as a Happineſs to him, nor could have any Hope or Aſſurance,
+<pb n="21" facs="tcp:153533:27"/>
+but from the flattering Treaſons of his Favourite, who diſſemb<g ref="char:EOLhyphen"/>led all things, and amuſed him by fair and vain Appearances, in ſuch ſort, that two days be<g ref="char:EOLhyphen"/>fore the Loſs of <hi>Newhauſel,</hi> I asked his Majeſty if he had good News; He anſwered me, That the <hi>Turks</hi> daily battered the place, but gained not any Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>The ſecond Campagne of this <note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Cam<g ref="char:EOLhyphen"/>pagne be<g ref="char:EOLhyphen"/>gins with Loſs to the Impe<g ref="char:EOLhyphen"/>rialiſts.</note> War did not appear at its be<g ref="char:EOLhyphen"/>ginning more proſperous than the firſt, by reaſon of the un<g ref="char:EOLhyphen"/>fortunate Siege of <hi>Caniſa,</hi> the taking of Fort <hi>Zerin</hi> by Aſ<g ref="char:EOLhyphen"/>ſault, <note place="margin">Fort <hi>Ze<g ref="char:EOLhyphen"/>rin</hi> taken 1664.</note> with a Remarkable Loſs of the Beſieged. How<g ref="char:EOLhyphen"/>ever the Victory obtained in <hi>Hungary</hi> on the other Side the <hi>Danube,</hi> by Count <hi>Zouches,</hi> and yet farther, that of <hi>Monte<g ref="char:EOLhyphen"/>cuculis</hi>'s, at the River <hi>Raab,</hi>
+               <pb n="22" facs="tcp:153533:28"/>
+ſweetn'd the End. But the known Loſs of <hi>Turkiſh</hi> Officers and Soldiers, and amongſt others of <hi>Iſmael</hi> Baſſa, the Sultan's Bro<g ref="char:EOLhyphen"/>ther-in-law, <note place="margin">Death of <hi>Iſmael Baſ<g ref="char:EOLhyphen"/>ſa.</hi>
+               </note> and General of the Cavalry, ſo much the more en<g ref="char:EOLhyphen"/>creaſed the Chriſtians Joy; which cut ſhort the Progreſs of the Infi<g ref="char:EOLhyphen"/>dels. By this conſiderable Defeat, not only the Misfortunes of the Emperor ſeemed to ceaſe, but di<g ref="char:EOLhyphen"/>vers Beams of a good Fortune began to ſhine out<hi>:</hi> For, beſides the Honour of the Victory, he had yet the Advantage of a great <hi>Booty</hi> which the Imperialiſts got.</p>
+            <p>The Victory was thus ob<g ref="char:EOLhyphen"/>tained, Six Thouſand <hi>Turks</hi> ha<g ref="char:EOLhyphen"/>ving raſhly paſſed the River, <note place="margin">An Ac<g ref="char:EOLhyphen"/>count of the Battle of <hi>Raab.</hi>
+               </note> they were as ſoon ſet upon by the Chriſtian Army, conſiſting of near Fifty Thouſand Men. The time was not long in their being all cut to pieces, or thrown over, and drowned in the
+<pb n="23" facs="tcp:153533:28"/>
+River. Yet theſe Wretches ſold <note place="margin">The <hi>Turk<g ref="char:EOLhyphen"/>iſh</hi> Valour.</note> their Lives at a dear Rate, and far from yielding to Diſcretion, they defended themſelves, as much as they were able, with as much Courage as Valour; and ſeemed in dying to out-brave their Conquerors; and all the Dead were found with their Cymeters in their Hands; and they made Priſoner but one only Janizary that lay fainting on the Ground through the number of his Wounds, who was ſent to the moſt Chriſti<g ref="char:EOLhyphen"/>an King, with many Enſigns taken from the Infidels by the <hi>French.</hi> Certainly their Brave<g ref="char:EOLhyphen"/>ry contributed very much to this Victory, and as to the Glory of the Succeſs, if other Nations, who fought, ought to be parta<g ref="char:EOLhyphen"/>kers of the Honour, the De<g ref="char:EOLhyphen"/>ciſion of this Battle, which was a long time doubtful, is due only
+<pb n="24" facs="tcp:153533:29"/>
+to their valour, and they were well recompenſed in the Field; for the Officers and Soldiers en<g ref="char:EOLhyphen"/>riched themſelves with the Spoils from the Dead Bodies upon the place, and the drown<g ref="char:EOLhyphen"/>ed, which they fiſhed for. The <hi>Turks,</hi> being (for the moſt part) Officers, or Commanders, were either richly Armed or clad.</p>
+            <p>The Preſumption of a certain Victory, had engaged the Bra<g ref="char:EOLhyphen"/>veſt of the <hi>Turkiſh</hi> Officers to this Raſhneſs, and without any Conſideration to paſs the Ri<g ref="char:EOLhyphen"/>ver, not making any Re<g ref="char:EOLhyphen"/>flection as to the Danger, or the Conſequences of it. They could not imagine that a Fear ſo great as the <hi>German</hi>'s was, could be ſo eaſily vaniſhed; and that a People ſo aſtoniſhed could ſo quickly take Courage, or dare
+<pb n="25" facs="tcp:153533:29"/>
+to make any Reſiſtance; ſo that ruſhing on to a Triumph, before they were aſſured of a Victory, they got on their beſt Habits, inſtead of arming themſelves with their beſt Arms: There <note place="margin">An Ac<g ref="char:EOLhyphen"/>count of the Booty.</note> was found Silver, Furniture for Horſes with Silver-gilt Saddles embroidered, Cymeters, ſet with Diamonds, Turbants garniſhed with precious Stones; and par<g ref="char:EOLhyphen"/>ticularly that of <hi>Iſmael</hi> Baſſa, a<g ref="char:EOLhyphen"/>dorned with a Feather, ſet on with a Garniture of Diamonds of great price. This Diſgrace a little abated their Pride, and gave an Overture to Propoſiti<g ref="char:EOLhyphen"/>ons of Peace. The <hi>Turkiſh</hi> Ar<g ref="char:EOLhyphen"/>my already fatigued with the relieving of <hi>Caniſa,</hi> and the Cavalry wanting Forage, the <note place="margin">
+                  <hi>Caniſa</hi> re<g ref="char:EOLhyphen"/>lieved, <hi>An. D.</hi> 1664.</note> 
+               <hi>Viſier</hi> was conſtrained to pull off the Leaves of the Woods that were neareſt him, to ſerve inſtead of Hay for the Subſiſtence of his
+<pb n="26" facs="tcp:153533:30"/>
+Horſe. As for him, whether Bu<g ref="char:EOLhyphen"/>ſineſs took him up, or that he was not a good Soldier, he ſtay<g ref="char:EOLhyphen"/>ed <note place="margin">The Beha<g ref="char:EOLhyphen"/>vior of the <hi>Viſier</hi> at this Battle.</note> on the other ſide the River during the whole Battle; and ſeemed rather to obſerve as a Philoſopher, than as a Warriour, the Misfortune and Rout of his Army: For he did not make the leaſt offer, as if he were willing to relieve them, whether looking on it as a thing impoſſible, or chuſing rather to undergo the Diſgrace than the Danger.</p>
+            <p>Moreover, of what Conſe<g ref="char:EOLhyphen"/>quence ſoever the Loſs was, he did not fail gaining extreamly <note place="margin">The Death of <hi>Iſmael</hi> a great Ad<g ref="char:EOLhyphen"/>vantage to the <hi>Viſier.</hi>
+               </note> by the Death of <hi>Iſmael</hi> his Com<g ref="char:EOLhyphen"/>petitor, having no more to fear from him, who had a great Heart and Merit: That which ſurprized him moſt, was the Va<g ref="char:EOLhyphen"/>lor of the <hi>French,</hi> to ſee what a Slaughter they made, and what
+<pb n="27" facs="tcp:153533:30"/>
+a Shock they gave the Vi<g ref="char:EOLhyphen"/>ctory. However he more rea<g ref="char:EOLhyphen"/>dily <note place="margin">The <hi>Viſier</hi> harkens to a Peace.</note> lent his Ear to a Treaty of Peace, which was ſoon after concluded, and agreed amongſt the parties. I was ſo much the leſs ſurprized, becauſe I foreſaw it before-hand. Having at large repreſented it to your Serenities by my Diſpatches, that this War his Majeſty was neceſſitated, not adviſed to; and therefore would be willing to accept the beſt Conditions of peace he could, and endeavour the Reſtitu<g ref="char:EOLhyphen"/>tion of <hi>Newhauſel,</hi> a Frontier place, which ſecures not only <hi>Hungary,</hi> but covers <hi>Moravia</hi> and <hi>Sileſia,</hi> and his hereditary Countreys, and is only diſtant from <hi>Vienna</hi> a hundred <hi>Italian</hi> Miles. <note place="margin">The Rea<g ref="char:EOLhyphen"/>ſons that induced the Emperor to a Peace.</note>
+            </p>
+            <p>The Reaſons that led the Em<g ref="char:EOLhyphen"/>peror to this Peace ſo impru<g ref="char:EOLhyphen"/>dently
+<pb n="28" facs="tcp:153533:31"/>
+and haſtily, in a Time when all parts of Chriſtendom promiſed the Empire more Aſſi<g ref="char:EOLhyphen"/>ſtance than ever, and the pride of the <hi>Turks</hi> ſo ſenſibly abated; and in ſhort, when all things did appear to make for the Chriſti<g ref="char:EOLhyphen"/>ans; the Reaſons, I ſay, were <note place="margin">The weakneſs of the Houſe of <hi>Auſtria.</hi>
+               </note> the Non-age of the King of <hi>Spain,</hi> and the Apprehenſion that the <hi>Germans</hi> had, That through his Catholick Majeſty's Fault, the Houſe of <hi>Auſtria</hi> re<g ref="char:EOLhyphen"/>mained feeble and troubled in <hi>Spain,</hi> either by Domeſtick Factions, or by the Diverſion in <hi>Portugal:</hi> And too much entangled in <hi>Germany,</hi> by reaſon of this War, undertaken with Forces too unequal; be<g ref="char:EOLhyphen"/>ſides, theſe Entanglements laid open the paſſages for the King of <hi>France,</hi> to invade the Ter<g ref="char:EOLhyphen"/>ritories of the one and the other Branch of <hi>Auſtria;</hi> and he might
+<pb n="29" facs="tcp:153533:31"/>
+eaſily prevail over their Weak<g ref="char:EOLhyphen"/>neſs; and in Spite of them, both eſtabliſh and ſecure his Power in their Countreys. The little Mo<g ref="char:EOLhyphen"/>ney the Emperor hath, and the feeble &amp; ſlow Succors of the Em<g ref="char:EOLhyphen"/>pire, very much encouraged him to this Reſolution: But Foreign <note place="margin">The dan<g ref="char:EOLhyphen"/>ger of ha<g ref="char:EOLhyphen"/>zarding a Battle.</note> Conſiderations entirely deter<g ref="char:EOLhyphen"/>mined the Council of the Em<g ref="char:EOLhyphen"/>peror; for the great Force of the <hi>Turkiſh</hi> Arms hindered the hazarding a Battle in the Heart of <hi>Hungary;</hi> of which the ill Succeſs would put all the States of the Empire into evident Dan<g ref="char:EOLhyphen"/>ger; beſides, the natural Averſi<g ref="char:EOLhyphen"/>on between the <hi>Germans</hi> and <hi>Hungarians</hi> daily gave ſome new Alarm. <note place="margin">The <hi>Hun<g ref="char:EOLhyphen"/>garians</hi> ha<g ref="char:EOLhyphen"/>tred to the <hi>Turks</hi> keeps them in Subjecti<g ref="char:EOLhyphen"/>on to the Emperor.</note>
+            </p>
+            <p>On the other hand, the Impe<g ref="char:EOLhyphen"/>rial Miniſters were but too too juſtly perſwaded, that the <hi>Hun<g ref="char:EOLhyphen"/>garians</hi> are not retained in their
+<pb n="30" facs="tcp:153533:32"/>
+Duty and Obedience in reſpect to the Emperor, but out of ha<g ref="char:EOLhyphen"/>tred to the <hi>Turks;</hi> not for Love of their Sovereign, but Fear of their Enemies. Theſe natu<g ref="char:EOLhyphen"/>tural preventions are the only Cautions that keep in theſe un<g ref="char:EOLhyphen"/>ruly Creatures, and hinder them from undergoing the Yoak: For this their giddy Frame of Spirit, is the Reaſon why the <hi>Germans</hi> do not deſire entirely to get the Kingdom of <hi>Hungary</hi> out of its Subjection to the <hi>Ottomans,</hi> being of that Be<g ref="char:EOLhyphen"/>lief, that if this People ſhould recover their former Liberty, and were freed from the Fear of the <hi>Turks,</hi> they would infal<g ref="char:EOLhyphen"/>libly revolt from the Empire, nor would obey them any longer; and would in the end chuſe a King of their own Nati<g ref="char:EOLhyphen"/>on, as they have done hereto<g ref="char:EOLhyphen"/>fore.</p>
+            <p>
+               <pb n="31" facs="tcp:153533:32"/>
+Theſe Imaginations are ſo ſtrong, and of that weight with them, that the <hi>Auſtrians</hi> had much rather conſent to the Loſs of <hi>Newhauſel,</hi> one of the Bul<g ref="char:EOLhyphen"/>warks of their hereditary Coun<g ref="char:EOLhyphen"/>treys, than inſiſt upon the Re<g ref="char:EOLhyphen"/>ſtitution of that place, which being, as it were, the Center of <hi>Hungary,</hi> would encreaſe their Oppreſſion and Servitude. This conſiderable Loſs was a Comfort <note place="margin">The Em<g ref="char:EOLhyphen"/>peror makes a Peace bla<g ref="char:EOLhyphen"/>med by all <hi>Chryſten<g ref="char:EOLhyphen"/>dom.</hi>
+               </note> to them, becauſe it would be a Grief to the <hi>Hungarians,</hi> and precipitated them into a diſho<g ref="char:EOLhyphen"/>nourable Peace; blamed by all the World, and done in a time when all <hi>Europe,</hi> being in peace, might ſend powerful Succors, and vigorouſly beat back theſe Infidels.</p>
+            <p>The <hi>Hungarians,</hi> as they are <note place="margin">The Peace prejudici<g ref="char:EOLhyphen"/>al to the <hi>Hungari<g ref="char:EOLhyphen"/>ans.</hi>
+               </note> moſt concerned, ſo they were moſt ſurprized; they had con<g ref="char:EOLhyphen"/>ceived
+<pb n="32" facs="tcp:153533:33"/>
+ſome hope of being able to break their Chains, and were in expectation of ſome ſort of Relief from a General Peace a<g ref="char:EOLhyphen"/>mongſt Chriſtians. They could never imagine, that any one could acquieſce in a Treaty ſo diſadvantageous, by which their Fetters ſhould be faſtened, and their Slavery ſecured. Without doubt, no one knows how e<g ref="char:EOLhyphen"/>nough to deplore their Misfor<g ref="char:EOLhyphen"/>tune<hi>:</hi> For they find themſelves beſet on all Hands by the <hi>Turks;</hi> for they are tormented by their continual Courſes, ſurprized e<g ref="char:EOLhyphen"/>very Moment in their Vineyards and Villages, in ſuch ſort, that, let the peace be what it will that is made, theſe unfortunate <hi>Hungarians</hi> do not ceaſe having War, being expoſed to Incurſi<g ref="char:EOLhyphen"/>ons, to Repriſals, and to all o<g ref="char:EOLhyphen"/>ther Hoſtilities; ſo that they are obliged to have their Arms in
+<pb n="33" facs="tcp:153533:33"/>
+their Hands, and be always on their Guard, notwithſtanding their Forces are unequal to their Enemies. They were from Day to Day deſtroyed, and all to no purpoſe againſt a greater Force: Alſo adding loſs after loſs, it is ve<g ref="char:EOLhyphen"/>ry Difficult to think they ſhould long delay an entire Submiſſion; and the rather, becauſe they are ſeated between two power<g ref="char:EOLhyphen"/>ful Enemies, the <hi>Turks,</hi> that would oppreſs them, and the <hi>Germans,</hi> that would not defend them. And for this Reaſon, as well as that, they were not of themſelves ca<g ref="char:EOLhyphen"/>pable of making War without an evident hazard of being ru<g ref="char:EOLhyphen"/>ined, they found themſelves conſtrained to diſſemble their Misfortune, and to wait a more favourable time for their Liber<g ref="char:EOLhyphen"/>ty, without Murmur, without Complaint, through Fear of a more inſufferable Slavery. And
+<pb n="34" facs="tcp:153533:34"/>
+altho' this might be one Reaſon to oblige the <hi>Germans</hi> to a peace, it was not the only one; the unfortunate Loſs of <hi>Tranſylva<g ref="char:EOLhyphen"/>nia</hi> was a ſecond, and not leſs urgent.</p>
+            <p>This Province was the firſt <note place="margin">The Inva<g ref="char:EOLhyphen"/>ſion of <hi>Tranſilva<g ref="char:EOLhyphen"/>nia</hi> by the <hi>Turks,</hi> the firſt Cauſe of this War.</note> Subject of the War, and occa<g ref="char:EOLhyphen"/>ſioned rather by the ill Conduct of the Emperor's Miniſters, than by any ill Fortune of his own<hi>:</hi> For it was as it were abandoned; Buſineſs was neglected; Sixteen Muſters-pay due to the Soldiers; The Officers ill uſed, and driven out of places, and conſtrained, as it were thro' <hi>Deſpair,</hi> to treat with <hi>Abafti.</hi>
+            </p>
+            <p>This * Prince had preſently the Conſent of the Port, and <note place="margin">
+                  <hi>Abafti</hi> e<g ref="char:EOLhyphen"/>ſtabliſhed 1661.</note> Orders to receive well the <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Soldiers that fled to him for Refuge, and give them their pay due from the Emperor, and
+<pb n="35" facs="tcp:153533:34"/>
+ſo take in the places; were given them in Cuſtody, without giv<g ref="char:EOLhyphen"/>ing them wherewithal to keep them. By this means, with<g ref="char:EOLhyphen"/>out ſo much as drawing a Sword, the Emperor found himſelf deſpoiled of the principal places delivered to him as a pledge of Fidelity by <hi>Kemin Janos,</hi> and loſt <hi>Clauſemburg</hi> it ſelf, that had been defended with ſo great <note place="margin">
+                  <hi>Clauſem<g ref="char:EOLhyphen"/>burg,</hi> or <hi>Claudiopo<g ref="char:EOLhyphen"/>lis</hi> taken 1662.</note> a Reputation the laſt Campaign, under the Conduct of <hi>Reffano,</hi> a <hi>Venetian.</hi> There are ſome people that are apt to ſay, That <hi>Portia,</hi> out of Deſign, neglected the Relief of theſe places, think<g ref="char:EOLhyphen"/>ing to make the World believe, that the Inhabitants and Garri<g ref="char:EOLhyphen"/>ſons were the only Authors of their Revolts, to remove (by ſuch Loſſes where he did not ſeem to contribute) all Subject of Complaint and of War, that might ariſe concerning their pre<g ref="char:EOLhyphen"/>ſervation.</p>
+            <p>
+               <pb n="36" facs="tcp:153533:35"/>
+The loſs of <hi>Tranſylvania</hi> will without doubt one day be la<g ref="char:EOLhyphen"/>mentable to all Chriſtendom, <note place="margin">The loſs of <hi>Tranfil<g ref="char:EOLhyphen"/>vania</hi> en<g ref="char:EOLhyphen"/>dangers all Chriſten<g ref="char:EOLhyphen"/>dom.</note> eſpecially to <hi>Germany.</hi> This Province, which might paſs for a powerful and vaſt Kingdom, is fair, abundant, and enlarged with rich and fertile Plains, ſur<g ref="char:EOLhyphen"/>rounded with Hills, ſurmounting one another till by degrees they raiſe themſelves to ſteep and in<g ref="char:EOLhyphen"/>acceſſible Mountains, as if Provi<g ref="char:EOLhyphen"/>dence with theſe ſtrong and na<g ref="char:EOLhyphen"/>tural Ramparts, were minded to defend them from the divers Ir<g ref="char:EOLhyphen"/>ruptions of theſe <hi>Barbarians.</hi> It is filled with ſtrong Caſtles, and Towns well peopled<hi>:</hi> It is a<g ref="char:EOLhyphen"/>bounding in Mines; fertile in ſtrong and brave Horſes, and there is nothing wanting that is neceſſary to the life of Man.</p>
+            <p>The Emperor hath very much contributed to the Ruin of
+<pb n="37" facs="tcp:153533:35"/>
+this Province by his extraordi<g ref="char:EOLhyphen"/>nary Negligences, and aban<g ref="char:EOLhyphen"/>doning the generous <hi>Ragotzkie.</hi> That brave Man, tho' he was forſaken by the Emperor, and void of all Relief, continued to defend his Eſtates with as much <note place="margin">Prince <hi>Ragotzki</hi>'s death, <hi>May</hi> 1660.</note> Glory as Courage: Nor had he yielded to his ill Fortune, had he been ſeconded by the Prin<g ref="char:EOLhyphen"/>ces, his Neighbours, concerned in the War. Notwithſtanding his Deſpair encreaſed his Valor; for after he had ſlain one hun<g ref="char:EOLhyphen"/>dred and ſeventy one Men with his own Hand, he was encloſed by the Enemy, and at laſt kill'd Fighting. He inherited the Bra<g ref="char:EOLhyphen"/>very <note place="margin">His Cha<g ref="char:EOLhyphen"/>racter.</note> of his Father, who main<g ref="char:EOLhyphen"/>tained himſelf in this Province in ſpight of the <hi>Ottomans,</hi> on whom he had many Advantages, and won many ſignal Victories. The <hi>Turks</hi> never gave over troubling him, and would have
+<pb n="38" facs="tcp:153533:36"/>
+forced him to reſign his Princi<g ref="char:EOLhyphen"/>pality, and do Homage to the <hi>Port;</hi> but neither their Com<g ref="char:EOLhyphen"/>mands nor Forces could work againſt ſo valorous a Reſiſtance. From hence it is that it came to paſs, that the Death of <hi>Father</hi> and <hi>Son,</hi> and the taking of <hi>Wa<g ref="char:EOLhyphen"/>radin,</hi> 
+               <note place="margin">
+                  <hi>Waradin</hi> ſurrender<g ref="char:EOLhyphen"/>ed to the <hi>Turks,</hi> 17 <hi>Aug.</hi> 1660.</note> afforded ſo great Joy to the Infidels, who have not on<g ref="char:EOLhyphen"/>ly brought in Subjection all the Princes, his Succeſſors, but made his Subjects Slaves, and totally dependant upon their Empire.</p>
+            <p>
+               <hi>Varadin</hi> being the chief Key of <hi>Hungary,</hi> gives the <hi>Turks</hi> a free Entrance, and ſecure Acceſs, and renders their Dominion ſo ab<g ref="char:EOLhyphen"/>ſolute, and the Province ſo ſub<g ref="char:EOLhyphen"/>ject, that the Emperor and <hi>Hun<g ref="char:EOLhyphen"/>garians</hi> are apparently for ever excluded from the Recovery of this Country, and its Liberty.</p>
+            <p>
+               <pb n="39" facs="tcp:153533:36"/>
+The Imperial Miniſters took <note place="margin">Coloura<g ref="char:EOLhyphen"/>ble pre<g ref="char:EOLhyphen"/>tences for a Peace.</note> great care to give plauſible Mo<g ref="char:EOLhyphen"/>tives for a Peace, and did en<g ref="char:EOLhyphen"/>deavor to colour their Deſires of extinguiſhing the Fire that was enkindled in <hi>Hungary;</hi> and by conſequence their weak Re<g ref="char:EOLhyphen"/>ſiſtance in <hi>Tranſylvania.</hi> They publiſhed in their Treaty, That they had maintained <hi>Abafti</hi> in the ſame Eſtate that his prede<g ref="char:EOLhyphen"/>ceſſors were<hi>:</hi> But theſe Reports were ſpread farther than believ<g ref="char:EOLhyphen"/>ed; and they that had the leaſt Underſtanding of theſe Affairs, were perſwaded, that notwith<g ref="char:EOLhyphen"/>ſtanding all theſe Treaties, and the differences of the Provinces, this <hi>Prince</hi> ſhould not be better uſed by the <hi>Port,</hi> than thoſe of <hi>Valachia</hi> and <hi>Moldavia,</hi> who are <note place="margin">The Con<g ref="char:EOLhyphen"/>dition of Chriſtian Princes under the <hi>Turk.</hi>
+               </note> under the entire and abſolute Dominion of the <hi>Turks,</hi> and he not be able to act, but as the <hi>Port</hi> would have him; and find
+<pb n="40" facs="tcp:153533:37"/>
+himſelf not only deprived of his Authority, but deſtitute of his Forces, and not in a Capacity to take Arms, as his Predeceſſors had done, either to aggrandize or defend himſelf.</p>
+            <p>The Loſs of this <hi>Province</hi> is <note place="margin">The Loſs of <hi>Tranſyl<g ref="char:EOLhyphen"/>vania</hi> fatal to the Chriſtians and ad<g ref="char:EOLhyphen"/>vantagious to the <hi>Turks.</hi>
+               </note> ſo conſiderable, that it will be fatal one day to <hi>Germany:</hi> For the Fury of the <hi>Turks</hi> will not find any more a Defence to break their firſt Incurſions. The Emperor will not have any thing left to oppoſe their Inun<g ref="char:EOLhyphen"/>dation; and his Countrey will be expoſed to the firſt Fury of the Infidels. The <hi>Turks</hi> them<g ref="char:EOLhyphen"/>ſelves have gained this Advan<g ref="char:EOLhyphen"/>tage, that they can raiſe their Troops there, which they were forced to ſend back into <hi>Aſia</hi> after a Campagne. Now they can begin a Campagne ſooner, and retire into their Winter
+<pb n="41" facs="tcp:153533:37"/>
+Quarters later; and by reaſon that their Cavalry were con<g ref="char:EOLhyphen"/>ſtrained to wait the Growth and Maturity of Forage; and the great Diſtance of places hin<g ref="char:EOLhyphen"/>dered their appearing in a Bo<g ref="char:EOLhyphen"/>dy upon the Frontiers, before the beginning of <hi>Auguſt:</hi> Now they can do it in the Month of <hi>June,</hi> and ſo their Irruption will be ſo much the more deſtructive, as their Campagne will be the longer.</p>
+            <p>The laſt War hath prepoſſeſ<g ref="char:EOLhyphen"/>ſed the Chriſtians with theſe un<g ref="char:EOLhyphen"/>happy Conjectures: For the <hi>Turks</hi> durſt not have taken the Field before the Seaſon had co<g ref="char:EOLhyphen"/>vered the Earth with neceſſary Forage for the Subſiſtence of their Cavalry, Horſes of Artil<g ref="char:EOLhyphen"/>lery and Baggage; and not com<g ref="char:EOLhyphen"/>ing to a Rendezvouz till towards <hi>Auguſt,</hi> they had not time e<g ref="char:EOLhyphen"/>nough
+<pb n="42" facs="tcp:153533:38"/>
+to make any more than one Enterpriſe<hi>:</hi> But now hav<g ref="char:EOLhyphen"/>ing made a Conqueſt of ſo ſpa<g ref="char:EOLhyphen"/>cious and fertile a Countrey, which they retain, they are in a Condition to undertake all ſorts of Enterpriſes, almoſt at all times; and it is always in their power to hurt the Chriſti<g ref="char:EOLhyphen"/>ans, and oblige them conſtant<g ref="char:EOLhyphen"/>ly to be upon their Guard. Moreover, theſe vaſt and fruit<g ref="char:EOLhyphen"/>ful Fields of <hi>Hungary,</hi> ſo eaſily loſt to the <hi>Ottomans,</hi> have cre<g ref="char:EOLhyphen"/>ated a Deſire in them to eſta<g ref="char:EOLhyphen"/>bliſh themſelves in ſo good a Countrey.</p>
+            <p>In like manner the Emperor's Enemies have found themſelves poſted commodiouſly upon a Frontier, for the beginning of Sieges in good time, and ſo have it in their power to profit themſelves of all Seaſons. On
+<pb n="43" facs="tcp:153533:38"/>
+the other hand, the Emperor depending upon the unſteady Reſolutions of the ſeveral Dy<g ref="char:EOLhyphen"/>ets, and not being in a Condi<g ref="char:EOLhyphen"/>tion to receive but ſlow Succors, and Troops afar off, he will re<g ref="char:EOLhyphen"/>main expoſed to the Mercy of his Enemies, and find a power<g ref="char:EOLhyphen"/>ful Army upon him, capable to undertake all things before that he is in a Condition to defend himſelf.</p>
+            <p>The Articles of Peace be<g ref="char:EOLhyphen"/>tween the Emperor and the <hi>Turks</hi> have been ſufficiently handled in the laſt Diſpatch of the <hi>Great Chancellor,</hi> who might have ſpared the Circumſtances of Count <hi>Serini</hi>'s Death, which he ſuppoſes to be violent, con<g ref="char:EOLhyphen"/>triv'd, and of a premeditated Deſign; whereas it was mere<g ref="char:EOLhyphen"/>ly caſual, as I have written to your <hi>Serenity.</hi> For the ſole
+<pb n="44" facs="tcp:153533:39"/>
+Ardor, which he had equally for <note place="margin">Count <hi>Se<g ref="char:EOLhyphen"/>rini</hi>'s Death by a Wild Boar, 1664.</note> the Chaſe, as for the War was the true and only Cauſe of it. His great Courage made him wilful, and ſtifly to maintain a Fight with a wild Boar, alrea<g ref="char:EOLhyphen"/>dy wounded, and become furi<g ref="char:EOLhyphen"/>ous by ſeven Wounds that it had received. The Count be<g ref="char:EOLhyphen"/>ing <note place="margin">
+                  <hi>Rycaut</hi>'s Hiſt. <hi>p.</hi> 176</note> thrown upon the Ground, and by many Strokes diſabled from ſpeaking one Word, yet gave many Marks of his Reaſon and Piety; often ſmiting his Breaſt, he did lift up his Eyes to Heaven, and made it appear that he died content, and a good Chriſtian.</p>
+            <p>He was a Cavalier of great <note place="margin">His Cha<g ref="char:EOLhyphen"/>racter.</note> Birth, great Merit, and a ſworn Enemy to the <hi>Turks:</hi> His Ha<g ref="char:EOLhyphen"/>tred to them was hereditary, and common to his Family. Your <hi>Serenity</hi> knows very well
+<pb n="45" facs="tcp:153533:39"/>
+what his Grandfather did in <hi>Croatia,</hi> at the Siege of <hi>Zigeth,</hi> attacked by <hi>Solyman,</hi> at the Head of an Army of two Hun<g ref="char:EOLhyphen"/>dred Thouſand Men. That when Proviſion for Mouth and War were abſolutely wanting, <note place="margin">Count <hi>Se<g ref="char:EOLhyphen"/>rini</hi>'s Grandfa<g ref="char:EOLhyphen"/>ther's brave de<g ref="char:EOLhyphen"/>fence of <hi>Zigeth,</hi> 1566.</note> and the place open on all Sides, he would never hearken to a Compoſition; but reſolved ra<g ref="char:EOLhyphen"/>ther to periſh than treat; and becoming more fierce in the Extremity he ſaw himſelf redu<g ref="char:EOLhyphen"/>ced to, he changed a generous Defence into a vigorous At<g ref="char:EOLhyphen"/>tack; for encouraging the weak, feeble and languiſhing Remnant of the Garriſon to follow him, he furiouſly threw himſelf up<g ref="char:EOLhyphen"/>on his Enemies; and after a thouſand Exploits (worthy of eternal Memory) his Vertue fell, being oppreſſed by meer Number; he gloriouſly died with his Cymeter in his Hand,
+<pb n="46" facs="tcp:153533:40"/>
+and loſt not the place but with his Life.</p>
+            <p>The Valor of the <hi>Grand-ſon</hi> 
+               <note place="margin">His Cha<g ref="char:EOLhyphen"/>racter continu'd.</note> was not leſs eminent, though he finiſhed his Life with leſs good Fortune. A perſon of that Extraction and Deſert; his fre<g ref="char:EOLhyphen"/>quent Attempts in great and hazardous Occaſions, not ſpa<g ref="char:EOLhyphen"/>ring himſelf in the moſt appa<g ref="char:EOLhyphen"/>rent Dangers, well merited a more happy Deſtiny, and a more glorious Death. An Ambuſ<g ref="char:EOLhyphen"/>cade, or a Battel ought to have ended a Life ſo fair; and it was an unſpeakable Loſs, that ſo brave a Man as he, who had de<g ref="char:EOLhyphen"/>voted himſelf to the Fatigues of War, ſhould be deſtroyed in the pleaſures of Peace; and that a Prince ſo formidable to ſo many of the Infidels, his on<g ref="char:EOLhyphen"/>ly Enemies, ſhould be torn in pieces by one only fierce Beaſt.</p>
+            <p>
+               <pb n="47" facs="tcp:153533:40"/>
+This Loſs is ſo much the more <note place="margin">
+                  <hi>Sereni</hi>'s Name a Terror, and his Diſgrace and death a Joy to the <hi>Turks.</hi>
+               </note> to be lamented by Chriſtendom, be cauſe the very Name of this Heroe was ſufficiently capable to ſtrike a Terror into the <hi>Turks,</hi> and to repell their moſt hardy Attempts: Yey, the very Diſ<g ref="char:EOLhyphen"/>grace of this Count <hi>Nicholas de Serini,</hi> was looked upon by the <hi>Ottomans</hi> as one of their great<g ref="char:EOLhyphen"/>eſt good Fortunes; but his Death cauſed ſo much Joy a<g ref="char:EOLhyphen"/>mong them, that they made Bone-fires, and diſcharged all the Cannons of <hi>Caniſa.</hi>
+            </p>
+            <p>The <hi>Hungarians</hi> on the other <note place="margin">The Loſs of <hi>Serini</hi> different<g ref="char:EOLhyphen"/>ly reſent<g ref="char:EOLhyphen"/>ed by the <hi>Hungari<g ref="char:EOLhyphen"/>ans,</hi> and the Impe<g ref="char:EOLhyphen"/>rial Court, and why.</note> ſide were in extream Grief; they perceived very well the Importance of ſo great a Loſs; they found themſelves without a Head, without Counſel, and without Protection; and were doubly afflicted to ſee the care<g ref="char:EOLhyphen"/>leſs Concern of the <hi>Ceſarean</hi>
+               <pb n="48" facs="tcp:153533:41"/>
+Court for him, who rendered this Misfortune agreable to the <hi>Emperor</hi>'s Miniſters, which was regretted by the reſt of his Sub<g ref="char:EOLhyphen"/>jects: For they looked upon him as an Obſtacle to Peace, a Fomenter of War, his natural Valor an Enemy to Repoſe; and that his boyling Courage would never wave an Occaſion to kindle a War. However it was (for I cannot diſſemble to your <hi>Serenity)</hi> his Country has not only loſt in his Perſon, a generous Defender of his E<g ref="char:EOLhyphen"/>ſtates, but a powerful Hinder<g ref="char:EOLhyphen"/>ance againſt the Inundations of the Infidels<g ref="char:punc">▪</g> A little before this ſad Adventure, being in De<g ref="char:EOLhyphen"/>ſpair by the Peace which the Emperor had concluded to ſo ill a purpoſe, and ſo much to his Diſadvantage. <note n="*" place="margin">
+                  <hi>Sereni</hi>'s generous Offer to the <hi>Vene<g ref="char:EOLhyphen"/>tians.</hi>
+               </note> He himſelf propoſed to me, That he would go a Voluntier to ſerve this
+<pb n="49" facs="tcp:153533:41"/>
+Republick with Six Thouſand old Soldiers, every one of them a choice Man, wherever you ſhould have Occaſion; and that he feared nothing ſo much as the Ruſt of Repoſe, and the De<g ref="char:EOLhyphen"/>bauchery of Idleneſs. In ſhort, he wiſhed for nothing more, than to end his Days in an Oc<g ref="char:EOLhyphen"/>caſion glorious to his Memory, and profitable to Chriſten<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Count <hi>Peter Serini</hi> ſucceed<g ref="char:EOLhyphen"/>ed his Brother in his Command. <note place="margin">Count <hi>Pe<g ref="char:EOLhyphen"/>ter Serini</hi>'s Character.</note> He is a brave Soldier, and great Captain; but not looked upon as a man ſo great in Bravery as his Brother was.</p>
+            <p>Two Articles of this Peace, <note place="margin">Secret Articles of Peace be<g ref="char:EOLhyphen"/>tween the Emperor and the <hi>Turk.</hi>
+               </note> notwithſtanding they were kept very ſecret, were nevertheleſs diſcovered, and divulged a<g ref="char:EOLhyphen"/>mongſt the <hi>Hungarians;</hi> and
+<pb n="50" facs="tcp:153533:42"/>
+thoſe that were men of the grea<g ref="char:EOLhyphen"/>teſt Intereſt among them, en<g ref="char:EOLhyphen"/>deavoured to penetrate into this Treaty, and did it ſooner than the <hi>Germans.</hi>
+            </p>
+            <p>The Firſt was, That the Em<g ref="char:EOLhyphen"/>peror <note place="margin">The firſt Article.</note> might freely chaſtiſe the Inſolence of the <hi>Hungarians,</hi> and reduce them by all ſorts of ways to their Duty, without any Op<g ref="char:EOLhyphen"/>poſition from the <hi>Turks,</hi> or Hin<g ref="char:EOLhyphen"/>derance of the Reſentments of the Imperial Court in puniſhing his Subjects.</p>
+            <p>The Second was, That the <note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Ar<g ref="char:EOLhyphen"/>ticle.</note> Emperor ſhould not oppoſe the <hi>Turks,</hi> as to any Attempts they ſhould make upon <hi>Italy;</hi> but leave them a free paſſage thro' <hi>Friuli.</hi>
+            </p>
+            <p>I took an extraordinary trou<g ref="char:EOLhyphen"/>ble upon me to dive into the
+<pb n="51" facs="tcp:153533:42"/>
+truth of theſe things, kept with ſo much Induſtry hid, and ſecret by the <hi>Germans,</hi> yet as haſtily publiſhed by the <hi>Hungarians.</hi> And if the firſt Article proved true, I ſhall have but little <hi>trouble</hi> to perſwade the world to believe the Second. All things carried ſo likely a Semblance in them<g ref="char:EOLhyphen"/>ſelves, as well as in my Opini<g ref="char:EOLhyphen"/>on, that I ſhall take but little Care to illuſtrate, altho' it was a great deal of pain to me to be<g ref="char:EOLhyphen"/>lieve them.</p>
+            <p>The Death of Prince <hi>Portia</hi> 
+               <note place="margin">The death of Count <hi>Portia,</hi> a great Loſs to the States of <hi>Piſino.</hi>
+               </note> was a great Loſs and Misfor<g ref="char:EOLhyphen"/>tune to the Eſtates of <hi>Piſino</hi> (through which the <hi>Tartars,</hi> when they had a mind, muſt paſs towards <hi>Italy)</hi> as alſo to the Defence and Guard of thoſe ſtrait and difficult Paſſes<hi>:</hi> For his Authority and particular In<g ref="char:EOLhyphen"/>tereſt ſecur'd them againſt di<g ref="char:EOLhyphen"/>vers
+<pb n="52" facs="tcp:153533:43"/>
+Hazards, procured them a great Number of Soldiers to put them out of all Fear, and protect<g ref="char:EOLhyphen"/>ed them againſt all ſort of incurſi<g ref="char:EOLhyphen"/>ons of their enemies. The <hi>County</hi> of <hi>Piſino,</hi> bought by the Brother of the Prince of <hi>Ausburg,</hi> ſince the Death of <hi>Portia,</hi> found little Support in his Succeſſor, who had no ſmall Share in the Coun<g ref="char:EOLhyphen"/>cils of his Imperial Majeſty, tho' this new Count did do his En<g ref="char:EOLhyphen"/>deavor to divert all the Diſgra<g ref="char:EOLhyphen"/>ces from his own Lands, which the Neceſſity and Freedom of a paſſage (of it ſelf more diffi<g ref="char:EOLhyphen"/>cult than one can well imagine) might bring upon them.</p>
+            <p>The Emperor, as well as his Subjects, will firſt feel this Da<g ref="char:EOLhyphen"/>mage: <note place="margin">The great Damage the Em<g ref="char:EOLhyphen"/>peror is like to ſuſtain.</note> For the <hi>Tartars</hi> (who make no Diſtinction between Friend and Foe, and whoſe Cruelty treats all alike, and car<g ref="char:EOLhyphen"/>ry
+<pb n="53" facs="tcp:153533:43"/>
+Diſorder, Rapine and Blood<g ref="char:EOLhyphen"/>ſhed along with them) might ea<g ref="char:EOLhyphen"/>ſily make him ſenſible of the Ef<g ref="char:EOLhyphen"/>fects of their Barbarity and Vio<g ref="char:EOLhyphen"/>lence; and he knows no other way to hinder this Army from poſting it ſelf in the Bowels of his own proper Territories, without great prejudice to him<g ref="char:EOLhyphen"/>ſelf, of the Conſequence whereof your <hi>Serenity</hi> cannot be igno<g ref="char:EOLhyphen"/>rant.</p>
+            <p>The Electors, &amp; Princes of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> 
+               <note place="margin">The Diſſa<g ref="char:EOLhyphen"/>tisfaction given the Electors by this Peace, and their Re<g ref="char:EOLhyphen"/>flections upon it.</note> remained ill content with a Peace ſo infamous to the Em<g ref="char:EOLhyphen"/>pire, and advantageous to the <hi>Turk.</hi> They preſently made it known, that their Dyets had been unprofitably aſſembled; their Aſſiſtances ſuperfluous, and their Levies unjuſt for a Suc<g ref="char:EOLhyphen"/>ceſs ſo unworthy his Majeſty, the Princes of the Empire, and the Forces of Chriſtendom<hi>:</hi> That
+<pb n="54" facs="tcp:153533:44"/>
+the Emperor would primarily be hurt by ſo diſgraceful an Accommodation; That he had ſeemed already to implore, to no purpoſe, a Succor that he had no occaſion for; That the <hi>Grand Seignior</hi> would agree to nothing, but under ſuch helliſh Conditi<g ref="char:EOLhyphen"/>ons, as ſhould oblige the Empe<g ref="char:EOLhyphen"/>ror to give Inſtructions to his Miniſter at <hi>Conſtantinople,</hi> to conſent to any Propoſals ſhould be made to him, without which he could not poſſibly reſume a<g ref="char:EOLhyphen"/>ny Treaty with the <hi>Port.</hi> As <note place="margin">The <hi>Ger<g ref="char:EOLhyphen"/>mans</hi> great Care in keeping the peace.</note> for the <hi>Germans,</hi> they would not, in Truth, give any Cauſe to the <hi>Turks,</hi> to break the peace that had been concluded; but on the contrary would endea<g ref="char:EOLhyphen"/>vour to have it well rooted, and would ſuffer any thing in Rea<g ref="char:EOLhyphen"/>ſon that their Liberties would permit, provided their Enemies would alſo as religiouſly keep
+<pb n="55" facs="tcp:153533:44"/>
+themſelves within the Confines and Terms of their Treaty.</p>
+            <p>As to the Duration of this <note place="margin">The Un<g ref="char:EOLhyphen"/>certainty of the du<g ref="char:EOLhyphen"/>ration of this peace.</note> Peace between theſe two great Empires, it depends upon the Contingencies of future things, which are in the Hands of God, and of which Men know not how with any certainty to judge. Yet I ſhall ſay, That the Confines are ſo embarraſſed, that it will be a very great won<g ref="char:EOLhyphen"/>der, if the <hi>Turks,</hi> when they are rid of the War, which they have with your <hi>Serenity,</hi> do not then begin again to fall out with the Emperor<hi>:</hi> For thoſe two Prin<g ref="char:EOLhyphen"/>ces know not how to live long together in a good Underſtand<g ref="char:EOLhyphen"/>ing. The <hi>Turk</hi> will not conti<g ref="char:EOLhyphen"/>nue long in the Condition he finds himſelf; and every <hi>Sultan,</hi> by his Law, is obliged to ſig<g ref="char:EOLhyphen"/>nalize himſelf by ſome Famous
+<pb n="56" facs="tcp:153533:45"/>
+Conqueſt upon the Chriſtians; and this very man knows not how to diſpenſe with himſelf without making a War, nor can find a Country more proper, more commodious, more rich, (according to his Apprehenſion) than that of the Empire. More<g ref="char:EOLhyphen"/>over the <hi>Grand Seignior</hi> cannot meet with any thing more to his Advantage<hi>:</hi> For his formi<g ref="char:EOLhyphen"/>dable Armies may better ſub<g ref="char:EOLhyphen"/>ſiſt in the vaſt and fertile plains of the <hi>Empire,</hi> than in the ſtar<g ref="char:EOLhyphen"/>ving Deſerts of <hi>Perſia.</hi>
+            </p>
+            <p>It will be the worſt News <note place="margin">The <hi>Ve<g ref="char:EOLhyphen"/>netians</hi> peace with the <hi>Turks</hi> hin<g ref="char:EOLhyphen"/>dered by the <hi>Impe<g ref="char:EOLhyphen"/>rialiſts,</hi> and why.</note> that can poſſibly come to <hi>Vien<g ref="char:EOLhyphen"/>na,</hi> that there is a peace conclu<g ref="char:EOLhyphen"/>ded between your <hi>Serenity</hi> and the <hi>Port,</hi> whenever it ſhall pleaſe God it ſhall be ſo.</p>
+            <p>
+               <pb n="57" facs="tcp:153533:45"/>
+Their Miniſters are very well perſwaded, That their peace will laſt as long as the War with your <hi>Serenity;</hi> and your Diver<g ref="char:EOLhyphen"/>ſions ceaſing by Sea, the Inſo<g ref="char:EOLhyphen"/>lence of the <hi>Turks</hi> would begin on the Land. For this Reaſon it is, that the Generoſity of the <hi>Senate</hi> is praiſed at the <hi>Imperial</hi> Court; and they wiſh nothing more ardently than the Conti<g ref="char:EOLhyphen"/>nuation of your War. Hence they, with Artifice, invent things to give Courage to your <hi>Serenity,</hi> to engage you to an obſtinate Defence, and hinder the ſlackening your Fatigue and Expence: Sometimes they ſpread abroad a Report of an Enter<g ref="char:EOLhyphen"/>priſe which they do not ſo much as dream of; ſometimes of a Diſorder among the <hi>Turks,</hi> a<g ref="char:EOLhyphen"/>gainſt all Appearance of Truth, and of other ſuch like things, all to perſwade you to lengthen
+<pb n="58" facs="tcp:153533:46"/>
+out the War, and lay aſide all thoughts of peace. It is not a pure and frank Courteſie that they ſuffer you to raiſe Recruits in <hi>Germany,</hi> and make Levies of Troops for the Relief of your Empire; but true and viſible Reaſon of State, which prevails always in the Deliberation of Princes, and is the only Rule they follow. For after all, there is none but looks upon the Misfortune of another as an Happineſs to himſelf, when he is to receive Advantage by it; although at the ſame time there's no man would ſet Fire to his Neighbour's Houſe for fear it ſhould burn his own. I can ſay without Dread of abuſing you, and aſſure your <hi>Serenity,</hi> that <hi>Panagiriti</hi> had private Orders to give out at <hi>Conſtantinople,</hi> That it was not for the Dignity of the <hi>Sultan</hi> to make peace
+<pb n="59" facs="tcp:153533:46"/>
+with this <note n="*" place="margin">The <hi>Imperial</hi> Miniſter diſſwades the <hi>Turk</hi> from a Peace with the <hi>Venetians.</hi>
+               </note> 
+               <hi>Republick,</hi> until they were diſingaged by ſome Con<g ref="char:EOLhyphen"/>queſt, that would anſwer the Reputation of their Arms.</p>
+            <p>All the Treaties managed by Monſieur the Grand <hi>Chancellor,</hi> are but new Engagements to a Second Expence; and the In<g ref="char:EOLhyphen"/>treagues of the Imperialiſts are renewed, and augmented eve<g ref="char:EOLhyphen"/>ry day; which do ſo much the more encreaſe, as they ſeem to be under a Mis-apprehenſion at the <hi>Port.</hi> For ſince the Rup<g ref="char:EOLhyphen"/>ture, by their Negotiations, ei<g ref="char:EOLhyphen"/>ther private or publick, they always ſeem eaſie and willing to ſatisfie the <hi>Ottoman</hi> Court; notwithſtanding the late Advan<g ref="char:EOLhyphen"/>tages of the <hi>Ceſarean</hi> Armies, the great Number of their Troops, and the Succeſs of their Auxili<g ref="char:EOLhyphen"/>aries<hi>:</hi> For fear that your <hi>Sere<g ref="char:EOLhyphen"/>nity</hi> ſhould prevent their peace
+<pb n="60" facs="tcp:153533:47"/>
+by yours, and leave them for want of a Diverſion, to the full and total Fury of the <hi>Turkiſh</hi> Forces. A peace, ſuch as your <hi>Serenities</hi> are able to make with the <hi>Port,</hi> would prove the great<g ref="char:EOLhyphen"/>eſt Diſgrace can happen to the Houſe of <hi>Auſtria.</hi> The laſt Year the Grand <hi>Chancellor</hi> propoſed a Treaty between your <hi>Sereni<g ref="char:EOLhyphen"/>ty</hi> and the <hi>Turks;</hi> and becauſe it did not take Effect, the <hi>Ce<g ref="char:EOLhyphen"/>ſarean</hi> Court ſeemed to be un<g ref="char:EOLhyphen"/>eaſie, and teſtified a great deal of Trouble and Concern at it. The <hi>Imperial</hi> Miniſters at the ſame time that were near the <hi>Viſier,</hi> were commanded by ex<g ref="char:EOLhyphen"/>preſs and re-iterated Orders, ſent by many Couriers, to hin<g ref="char:EOLhyphen"/>der the progreſs of theſe Nego<g ref="char:EOLhyphen"/>tiations, and remonſtrate to the <hi>Port,</hi> That a peace was much more advantageous, and honou<g ref="char:EOLhyphen"/>rable to the <hi>Turks</hi> with the <hi>Em<g ref="char:EOLhyphen"/>peror,</hi>
+               <pb n="61" facs="tcp:153533:47"/>
+than with your <hi>Excellen<g ref="char:EOLhyphen"/>cies;</hi> and all the Advices from <hi>Spain</hi> were all along for conclu<g ref="char:EOLhyphen"/>ding a peace, and making an Accommodation: Nay, to of<g ref="char:EOLhyphen"/>fer conſiderable Summs; and if things came to extremity, to buy it with their Money, if they could not obtain it by <note place="margin">
+                  <hi>Spain</hi> ad<g ref="char:EOLhyphen"/>viſes the Emperor to a peace with the <hi>Turks.</hi>
+               </note> their Negotiations: So far were they preſſed by <hi>Spain,</hi> to make a Peace, and hinder a War.</p>
+            <p>During ſometime before, and after the Rupture, there was nothing but Couriers running to and fro, going to, and coming from <hi>Conſtantinople,</hi> with conti<g ref="char:EOLhyphen"/>nual projects of peace. It is true enough that the <hi>Germans</hi> had ſufficiently experimented, That to perſwade the <hi>Turks,</hi> their Arms would do much better than their Letters; the Sword than their ſubtle Devices; their
+<pb n="62" facs="tcp:153533:48"/>
+Blows than their remonſtrances; a brisk and bloody War more than the moſt able Negotiations. In ſhort, there were many Ar<g ref="char:EOLhyphen"/>tifices employed, before the rup<g ref="char:EOLhyphen"/>ture, to avoid this Rock and Shock of Arms; and ſo many Expeditions made to <hi>Conſtanti<g ref="char:EOLhyphen"/>nople,</hi> to ſweeten their Spirits, that produced an Effect quite contrary, and augmented the pride of the <hi>Ottomans,</hi> and cre<g ref="char:EOLhyphen"/>ated in them a Miſunderſtand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>As to the Forces of the <hi>Im<g ref="char:EOLhyphen"/>perialiſts,</hi> 'tis true, they did ap<g ref="char:EOLhyphen"/>pear feeble and intimidated; and more than once their Troops retired into <hi>Tranſylva<g ref="char:EOLhyphen"/>nia,</hi> and viſibly avoided fight<g ref="char:EOLhyphen"/>ing; but when the <hi>Turks</hi> ſaw that the <hi>Germans</hi> were awake<g ref="char:EOLhyphen"/>ned from their Lethargy, and in a Condition and Humor of
+<pb n="63" facs="tcp:153533:48"/>
+Defence; and did behave them<g ref="char:EOLhyphen"/>ſelves with ſo great Reſolution at the Siege of <hi>Caniſa;</hi> and af<g ref="char:EOLhyphen"/>ter <note place="margin">
+                  <hi>Caniſa</hi> be<g ref="char:EOLhyphen"/>ſieged by Count <hi>Se<g ref="char:EOLhyphen"/>rini, May</hi> 1. and the <hi>Turks</hi> de<g ref="char:EOLhyphen"/>feated by <hi>Montecu<g ref="char:EOLhyphen"/>culis, Aug.</hi> 3. 1664. <hi>Rycaut</hi>'s Hiſt. <hi>pag.</hi> 150, 168.</note> ſo well beat them at the Battle, near the River of <hi>Raab,</hi> they began to lend an Ear to divers propoſitions of the <hi>Impe<g ref="char:EOLhyphen"/>rialiſts,</hi> to hearken voluntarily to the ſeveral Envoys from them; and their Fierceneſs be<g ref="char:EOLhyphen"/>ing much abated, they became more ſweet and tractable in a Moment, making no longer pre<g ref="char:EOLhyphen"/>tences to <hi>Comorra</hi> or <hi>Jawarin,</hi> which before they declared they would.</p>
+            <p>I proceed now to the Cor<g ref="char:EOLhyphen"/>reſpondencies the Emperor holds with the Princes of <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+            </p>
+            <p>The <hi>Swedes</hi> were poſſeſt with <note place="margin">The State of the Em<g ref="char:EOLhyphen"/>peror's Affairs as to <hi>Sweden.</hi>
+               </note> Enmities of old againſt the <hi>Em<g ref="char:EOLhyphen"/>pire;</hi> but it ſeems have forgot
+<pb n="64" facs="tcp:153533:49"/>
+their Bitterneſs and Prejudices, becauſe the <hi>Germans</hi> (by bring<g ref="char:EOLhyphen"/>ing an unexpected Succor and Aſſiſtance to the <hi>Poles)</hi> made the <hi>Danes</hi> loſe the Opportuni<g ref="char:EOLhyphen"/>ty the Civil Wars of <hi>Poland</hi> gave them. Many brave Acti<g ref="char:EOLhyphen"/>ons paſt on one Side and the o<g ref="char:EOLhyphen"/>ther: <hi>Denmark</hi> joyned to the <hi>Emperor</hi> to oppoſe the <hi>Swediſh</hi> Invaſion<hi>:</hi> This was one brave and glorious Action. As to the other, the <hi>Germans</hi> themſelves complained, and blamed this indiſcreet Generoſity of the Emperor, who preferred the Relief of <hi>Poland</hi> before his own Defence, and divided his Troops in favor of that Kingdom, which if united, had not been ſuffici<g ref="char:EOLhyphen"/>ent to oppoſe the Force of the <hi>Swede</hi> or <hi>Turk.</hi>
+            </p>
+            <p>
+               <pb n="65" facs="tcp:153533:49"/>
+However it was that <hi>Poland</hi> 
+               <note place="margin">Poland.</note> undertook a Guarranty againſt the Incurſions of the <hi>Swedes,</hi> yet it fell under another Tyranny, and found it ſelf conſtrained to obey a Woman, who knew how to diſpoſe all things, even her Husband himſelf, under her power. This Prince was ſo much the more complaiſant to his Wife, becauſe of his Hopes of having Children by her. The Queen's Deſire for a Succeſſor of her own Family being too apparent, the Emperor began to oppoſe it; and fearing leſt that Empire ſhould fall into the Hands of the <hi>French</hi> (a Nation ſuſpected and feared) he re<g ref="char:EOLhyphen"/>doubled his Negotiations, con<g ref="char:EOLhyphen"/>verſed with his Allies, fomented the laſt Troubles, to make a Counterpoiſe to the Queen's Deſigns; and at preſent he him<g ref="char:EOLhyphen"/>ſelf maintains <hi>Lubomirski,</hi> the
+<pb n="66" facs="tcp:153533:50"/>
+Grand Marſhal of <hi>Poland,</hi> in ill Intelligence with the Court, on purpoſe to oppoſe the Kind<g ref="char:EOLhyphen"/>neſs the Queen has for her Na<g ref="char:EOLhyphen"/>tion and Family.</p>
+            <p>As to the <hi>proteſtant</hi> Princes <note place="margin">Branden<g ref="char:EOLhyphen"/>burgh.</note> of the Empire, and eſpecially <hi>Brandenburgh,</hi> the <hi>Emperor</hi> re<g ref="char:EOLhyphen"/>lies upon him for Neceſſity, ra<g ref="char:EOLhyphen"/>ther than for Friendſhip's ſake: For ſince that <hi>Ferdinand</hi> the Se<g ref="char:EOLhyphen"/>cond, with the formidable Ar<g ref="char:EOLhyphen"/>my of <hi>Walleſtein,</hi> ſtruck ſuch a Fear into all <hi>Germany,</hi> the moſt part of the <hi>Electors</hi> of the <hi>Em<g ref="char:EOLhyphen"/>pire</hi> have remained firm to <hi>France,</hi> and had rather depend upon an uncertain Relief of Strangers, than to a natural Do<g ref="char:EOLhyphen"/>minion, which might prove too abſolute; which was the ſole Cauſe of the Confederation of the <hi>Rhine,</hi> ſo much againſt the <hi>Emperor's</hi> Mind, and has aug<g ref="char:EOLhyphen"/>mented
+<pb n="67" facs="tcp:153533:50"/>
+extreamly the Fear and Jealouſie he has of the proſperi<g ref="char:EOLhyphen"/>ty of <hi>France.</hi>
+            </p>
+            <p>This Kingdom, ſince the peace, <note place="margin">France.</note> has employed it ſelf in nothing but the Increaſe of its Trea<g ref="char:EOLhyphen"/>ſures, and quietly obſerves, for its part, the Storms of other mens Veſſels, and waits with more patience than good Will the Shipwracks of the Houſe of <hi>Auſtria.</hi> So as this firſt Jealouſie has very much contributed to the concluding a peace with the <hi>Turks.</hi>
+            </p>
+            <p>The Court of <hi>Germany</hi> earneſt<g ref="char:EOLhyphen"/>ly <note place="margin">Spain.</note> wiſhes to find out ſome way or other in <hi>Spain,</hi> for hindering of the War with <hi>Portugal,</hi> by telling the Catholick King, That he is by it at the Expence of the greateſt part of his Revenues. The <hi>Emperor</hi> being united to
+<pb n="68" facs="tcp:153533:51"/>
+this King by Blood, and by In<g ref="char:EOLhyphen"/>tereſt, has always a very ſtrict Allyance with him; but becauſe that Prince <hi>Portia</hi> would not owe his Favor to any thing but Fortune, he never would have any Regard to the <hi>Spaniards</hi> in his Maſter's Court; and profit<g ref="char:EOLhyphen"/>ing himſelf by the Example of the Marqueſs <hi>de Machera,</hi> the laſt Embaſſador of <hi>Spain</hi> to the <hi>Emperor,</hi> who had a very great Intereſt otherways, he hinder<g ref="char:EOLhyphen"/>ed all Freedom of their Coun<g ref="char:EOLhyphen"/>cils, and weakened them, both as to the Reaſons, and the Im<g ref="char:EOLhyphen"/>portance of them.</p>
+            <p>The <hi>Imperialiſts</hi> are but indif<g ref="char:EOLhyphen"/>ferently <note place="margin">The <hi>Pope.</hi>
+               </note> ſatisfied with the <hi>Pope</hi> becauſe his Holineſs has not ſuitably relieved the <hi>Emperor</hi> (by reaſon of Cardinal <hi>Caraſſa,</hi> his <hi>Nuntio)</hi> in his moſt preſſing Neceſſities, having not laid out
+<pb n="69" facs="tcp:153533:51"/>
+in all above eight hundred thouſand <hi>Rix-dollars;</hi> a great part of which Summ was ex<g ref="char:EOLhyphen"/>acted from the Tithes of the States of <hi>Auſtria;</hi> ſo that he owes nothing to his Serenity, but the permiſſion of levying it; and it is as it were but drawn out of his own Fund, and Blood let out of his own Veins. His Holyneſs has not the ſame Zeal for the Emperor as his Prede<g ref="char:EOLhyphen"/>ceſſors, eſpecially <hi>Paul</hi> the Fifth, who, upon the like Conjuncture, maintained an Army in <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> and ſacrificed the Health and Life of his Nephew, who died at <hi>Caniſa.</hi>
+            </p>
+            <p>
+               <hi>Savoy</hi> takes part with <hi>France,</hi> 
+               <note place="margin">Savoy.</note> not by Choice, but Neceſſity: For the Neighbourhood of his Eſtates, takes away his Liberty of ſeparating either as to War, or Intrigue.</p>
+            <p>
+               <pb n="70" facs="tcp:153533:52"/>
+               <hi>Florence,</hi> Altho' he be <hi>Neu<g ref="char:EOLhyphen"/>ter,</hi> 
+               <note place="margin">Florence.</note> has a greater Kindneſs for the Houſe of <hi>Auſtria;</hi> and his Grandeur and Ambition termi<g ref="char:EOLhyphen"/>nates in the quiet Encreaſe of their Correſpondence.</p>
+            <p>The Duke of <hi>Modena</hi> is a <note place="margin">Modena.</note> 
+               <hi>French-man</hi> rather by Alliance with Cardinal <hi>Mazarine,</hi> than by Inclination; and, without doubt, would be very weakly united to <hi>France,</hi> were it not that he is ſo much engaged to its firſt Miniſter.</p>
+            <p>The <hi>Spaniards</hi> pay the Gar<g ref="char:EOLhyphen"/>riſon <note place="margin">Mantua.</note> of <hi>Cazal,</hi> for Fear rather than good Will, leſt the State of the Duke of <hi>Mantua</hi>'s Af<g ref="char:EOLhyphen"/>fairs ſhould oblige him, as he was wont, to return to <hi>France;</hi> and the <hi>Germans</hi> are perſwaded, that he would, if the Empreſs, his Siſter, who can do any thing
+<pb n="71" facs="tcp:153533:52"/>
+with him, had not broke off this Intrigue, and kept this Prince firm to them.</p>
+            <p>The Quality of the Emperor <note place="margin">Germany.</note> not having any Revenue an<g ref="char:EOLhyphen"/>nex'd and ſetled upon this Dig<g ref="char:EOLhyphen"/>nity, his great and auguſt Sta<g ref="char:EOLhyphen"/>tion carries nothing at all of profit; and all the Advantage conſiſts in the Majeſty of ſo mag<g ref="char:EOLhyphen"/>nificent a Title, and the Glory of ſo fair a Rank. <hi>Germany</hi> of it ſelf abounds more with Provi<g ref="char:EOLhyphen"/>ſions than Money, and affords the Emperor a Revenue very uncertain, and unequal, which amounts not to above ſix Milli<g ref="char:EOLhyphen"/>ons of <hi>Florins.</hi> His Heredita<g ref="char:EOLhyphen"/>ry <note place="margin">
+                  <hi>Auſtria,</hi> &amp;c.</note> Eſtates are abundantly fer<g ref="char:EOLhyphen"/>tile, and an Army of Fourſcore Thouſand Men might ſubſiſt, and be provided for in his Country, without any Diſtur<g ref="char:EOLhyphen"/>bance, and all of them diſtribu<g ref="char:EOLhyphen"/>ted
+<pb n="72" facs="tcp:153533:53"/>
+into Good Quarters in his reſpective Provinces, according to ancient Cuſtom. The pow<g ref="char:EOLhyphen"/>er, notwithſtanding of the Em<g ref="char:EOLhyphen"/>peror is not anſwerable to his Dignity, nor to ſo elevated a Degree.</p>
+            <p>His Majeſty is about twenty <note place="margin">The <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Em<g ref="char:EOLhyphen"/>peror his further Character.</note> five Years of Age: A Prince pious, good, and of a Sanguine Complexion; but not altoge<g ref="char:EOLhyphen"/>ther ſo Robuſt, or Watchful, as thoſe of his Family. He is ſub<g ref="char:EOLhyphen"/>ject to ſome Infirmities, eſpecial<g ref="char:EOLhyphen"/>ly of his Feet. His Subjects wiſh he were as much a Warriour, as he is devout and religious; and that he would appear in the Head of an Ar<g ref="char:EOLhyphen"/>my againſt his Competitors, al<g ref="char:EOLhyphen"/>moſt of the ſame Age, the King of <hi>France,</hi> and the <hi>Sultan</hi> of <hi>Conſtantinople.</hi> He is an ex<g ref="char:EOLhyphen"/>cellent Church-man, and takes
+<pb n="73" facs="tcp:153533:53"/>
+very great pleaſure in Muſick. He wants not Spirit or Vivaci<g ref="char:EOLhyphen"/>ty; but has a great Diſtruſt of himſelf. The Cares of his E<g ref="char:EOLhyphen"/>ſtate overcharge and preſs him down. Repoſe beſt pleaſes him; and in ſhort, he loves his Fa<g ref="char:EOLhyphen"/>vourites better than his Affairs.</p>
+            <p>The Houſe of <hi>Auſtria</hi> is re<g ref="char:EOLhyphen"/>duced to a very few Succeſſors. He of <hi>Spain</hi> is yet very young, weak and infirm. The Arch-Duke of <hi>Inſpruc</hi> is not yet mar<g ref="char:EOLhyphen"/>ried. The Emperor was promi<g ref="char:EOLhyphen"/>ſed in Marriage the Eldeſt <hi>In<g ref="char:EOLhyphen"/>fanta</hi> of <hi>Spain;</hi> but ſhe was af<g ref="char:EOLhyphen"/>terwards given to the King of <hi>France.</hi> Now he is amuſed with the Hopes of the Second, which he awaits with Impati<g ref="char:EOLhyphen"/>ence, Delay and Trouble.</p>
+            <p>
+               <pb n="74" facs="tcp:153533:54"/>
+The Empreſs <hi>Leonora</hi> hath <note place="margin">The Cha<g ref="char:EOLhyphen"/>racter of the Em<g ref="char:EOLhyphen"/>preſs <hi>Leo<g ref="char:EOLhyphen"/>nora.</hi>
+               </note> gained the Eſteem of all the Court. She lives with a great deal of Splendor and Generoſi<g ref="char:EOLhyphen"/>ty. She knows how to per<g ref="char:EOLhyphen"/>ſwade the Emperor to carry himſelf uprightly, and careful<g ref="char:EOLhyphen"/>ly to preſerve himſelf; which ſhe effects with an admirable Con<g ref="char:EOLhyphen"/>duct. She diverts her ſelf with the Converſation of Ladies, and loves people of Spirit and Viva<g ref="char:EOLhyphen"/>city. She has two Arch-Dutch<g ref="char:EOLhyphen"/>eſſes, one of excellent Beauty, and both of them deſigned for Royal Alliances. During my Stay in this Court, two Arch-Dukes, <hi>Leopold</hi> and <hi>Charles,</hi> to <note place="margin">1663, 1664.</note> the general Grief of all, depart<g ref="char:EOLhyphen"/>ed this Life: The firſt was Uncle, and the ſecond Brother to the Emperor. This laſt was a <note place="margin">Arch-Duke <hi>Charles</hi>'s Character.</note> very good Prince, pious, brave, and extreamly obliging to thoſe who were his Creatures. A per<g ref="char:EOLhyphen"/>ſon
+<pb n="75" facs="tcp:153533:54"/>
+of excellent Morals, great Spirit, whoſe Wiſdom ſurpaſſed his Years. Both the one and the other died of ſuch Infirmi<g ref="char:EOLhyphen"/>ties as were unknown to the Phyſicians, who, by their Igno<g ref="char:EOLhyphen"/>rance, more deſtroyed their Conſtitutions, than by their Remedies relieved their Indiſ<g ref="char:EOLhyphen"/>poſitions.</p>
+            <p>Prince <hi>Portia,</hi> who a few days <note place="margin">Prince <hi>Portia</hi> his Character.</note> ſince ended his, was <hi>Major-Do<g ref="char:EOLhyphen"/>mo-Major,</hi> and primier Miniſter to the Emperor. He came to this high Degree by mere good Fortune, and the only and ar<g ref="char:EOLhyphen"/>dent Affection of his Maſter. He was the Governour of his Youth, and had the Reputati<g ref="char:EOLhyphen"/>on of a perfectly good and up<g ref="char:EOLhyphen"/>right Cavalier. I found him very well inclined to your <hi>Se<g ref="char:EOLhyphen"/>renity;</hi> but he did not appear to me to be a perſon fit to un<g ref="char:EOLhyphen"/>dergo
+<pb n="76" facs="tcp:153533:55"/>
+the Charge of publick Government, and total Directi<g ref="char:EOLhyphen"/>on of Affairs. He neither knew how to deal well with his Friends, nor to do ill to his Enemies. He was uncapable of himſelf to take any firm Reſo<g ref="char:EOLhyphen"/>lution, nor would he give any entire Belief to any of his great<g ref="char:EOLhyphen"/>eſt Confidents. He carried all things to Extremity; could not tell how to <hi>moderate</hi> his unreaſo<g ref="char:EOLhyphen"/>nable Tranſports, nor to paſs by, or ſuſtain juſt Reſentments. He was naturally idle, ſlow and irreſolute. He tried all ſorts of means to avoid the War with the <hi>Ottomans,</hi> and forgot nothing that might put an end to it after it was declared. He perceived very well, that he was not born for great Affairs, and that his Miniſtry was above his Port and Strength; that he was far from being able to acquit himſelf as
+<pb n="77" facs="tcp:153533:55"/>
+he ought in ſo great a Number of Accidents as happened every day. His Memory was as un<g ref="char:EOLhyphen"/>faithful to his Thoughts as his Buſineſs<hi>:</hi> For once he forgot, and left upon his Table one of his moſt important Diſpatches; and ſo expoſed the moſt myſte<g ref="char:EOLhyphen"/>rious Secrets of State to his <hi>Va<g ref="char:EOLhyphen"/>lets de Chambre,</hi> and other in<g ref="char:EOLhyphen"/>diſcreet perſons<hi>:</hi> But tho' he was negligent in publick Af<g ref="char:EOLhyphen"/>fairs, he always minded his private Concerns, and applyed himſelf entirely to the Diver<g ref="char:EOLhyphen"/>tiſement of his Maſter, and ren<g ref="char:EOLhyphen"/>dering his own Family great by an Accumulation of Honours and Riches. His poſterity ſeem not to anſwer either his Spirit, or Fortune, and promiſe no<g ref="char:EOLhyphen"/>thing that is capable to uphold ſo many Acceſſions as they have received during his Favor. He himſelf, with all his Ingenuity,
+<pb n="78" facs="tcp:153533:56"/>
+was neither feared nor loved; for he knew not how to do good or ill; neither encouraging Me<g ref="char:EOLhyphen"/>rit and Services by Rewards, nor puniſhing of Crimes in thoſe that were guilty. One may ſay, his Soul was inſenſible and ſloth<g ref="char:EOLhyphen"/>ful, not capable of acknow<g ref="char:EOLhyphen"/>ledging a Kindneſs, or reſenting an Injury. In ſhort, he aban<g ref="char:EOLhyphen"/>doned all Reins of Govern<g ref="char:EOLhyphen"/>ment, to keep the whole Em<g ref="char:EOLhyphen"/>pire in Repoſe and Idleneſs.</p>
+            <p>The Emperor has diſpoſed of this Charge of <hi>Major-Domo-Major;</hi> but has not yet made choice of a Favorite for his plea<g ref="char:EOLhyphen"/>ſures, or a Miniſter for his Af<g ref="char:EOLhyphen"/>fairs. If he could give himſelf the glorious Trouble of Reign<g ref="char:EOLhyphen"/>ing alone, it would be his own Happineſs and Honor; and for the Benefit of his Subjects, who ſigh at the Remembrance of his
+<pb n="79" facs="tcp:153533:56"/>
+laſt Favorite, dread leſt a worſe ſhould ſucceed him; and trem<g ref="char:EOLhyphen"/>ble afreſh through Fear of be<g ref="char:EOLhyphen"/>ing expoſed to the Capricio's, Intereſts and Covetouſneſs of ſuch a ſort of Tyrants. The other principal Miniſters of the Emperor, are, the Prince of <hi>Ausburg,</hi> who being enfla<g ref="char:EOLhyphen"/>med <note place="margin">Prince of <hi>Ausburg</hi>'s Character.</note> with Ambition, knows no other Cure of his Malady, but an Advancement to the Rank, and Favor of Prince <hi>Portia;</hi> and looks upon no Remedies pro<g ref="char:EOLhyphen"/>per for his reſtleſs and aſpiring Spirit, but the good Eſteem of the Emperor, and a Promo<g ref="char:EOLhyphen"/>tion to ſuch a Miniſtry. His great Qualifications make him haughty; and the more of Me<g ref="char:EOLhyphen"/>rit he can pretend unto, ren<g ref="char:EOLhyphen"/>ders him the more proud and inſolent. In a word, he has very good Qualities, could he but love himſelf with as much
+<pb n="80" facs="tcp:153533:57"/>
+Juſtice, as he hates Strangers without Reaſon.</p>
+            <p>Prince <hi>Lewis</hi> is the preſent <note place="margin">Character of Prince <hi>Lewis.</hi>
+               </note> 
+               <hi>Major-Domo-Major.</hi> He has a great Vivacity of Spirit, a large Underſtanding, and long Ex<g ref="char:EOLhyphen"/>perience in Court Affairs. He jeers all the World, and is eter<g ref="char:EOLhyphen"/>nally mixing his Jeſts with the moſt ſerious Matters; ſo that he concludes nothing, but is al<g ref="char:EOLhyphen"/>ways hurried into divers Extra<g ref="char:EOLhyphen"/>vagancies.</p>
+            <p>
+               <hi>Don Hanibal de Gonzago</hi> has <note place="margin">Don <hi>Hani<g ref="char:EOLhyphen"/>bal</hi> de <hi>Gonzago<g ref="char:punc">▪</g>
+                  </hi>
+               </note> entered upon the Charge of firſt Preſident of the Council of War. He is a Souldier, diſ<g ref="char:EOLhyphen"/>creet, rational, more ſtout than ambitious; and knows the beſt of any man what Advantages the <hi>Turks</hi> have over the Chri<g ref="char:EOLhyphen"/>ſtians. He ſeems extreamly kind in his Intentions for this
+<pb n="81" facs="tcp:153533:57"/>
+Republick, and is a Favorer of all <hi>Italians.</hi>
+            </p>
+            <p>The <hi>Sieur Intendant</hi> of the <note place="margin">
+                  <hi>Sieur In<g ref="char:EOLhyphen"/>tendant</hi> of the <hi>Finan<g ref="char:EOLhyphen"/>ces,</hi> or Lord Treaſurer.</note> 
+               <hi>Finances,</hi> is a Man of Eſtate (as becomes one in his Charge.) He was the more willing to con<g ref="char:EOLhyphen"/>ſent to a Peace, as more profi<g ref="char:EOLhyphen"/>table to himſelf than a War<hi>:</hi> For he well knew he might have Liberty to lay up that in a Calm, which of neceſſity he muſt lay out during a Storm. Since this Accommodation he enjoys a full and quiet Abundance; and hath gained ſuch an Intereſt in the Emperor, that he leaves him ſo much the more willingly to advantage himſelf, as he is aſ<g ref="char:EOLhyphen"/>ſured that he can loſe nothing. Hereby he is always ſure of a party in the Court, where he knows ſo well how to ſet a va<g ref="char:EOLhyphen"/>lue upon his late Loſſes; that the Emperor is very well ſatis<g ref="char:EOLhyphen"/>fied,
+<pb n="82" facs="tcp:153533:58"/>
+that he ſhould make to himſelf a real and ſubſtantial Gain.</p>
+            <p>I had for my Secretary Mon<g ref="char:EOLhyphen"/>ſieur <note place="margin">The Au<g ref="char:EOLhyphen"/>thor's Se<g ref="char:EOLhyphen"/>cretary <hi>Paul Reſio.</hi>
+               </note> 
+               <hi>Paul Reſio,</hi> who was not wanting in his Diligence ſuita<g ref="char:EOLhyphen"/>ble to the Occaſion, nor in his Care of writing to your <hi>Sereni<g ref="char:EOLhyphen"/>ty,</hi> as the Importance of Mat<g ref="char:EOLhyphen"/>ters required. His Exactneſs and Fidelity cannot be too much eſteemed. In ſhort, he has forgot nothing that concer<g ref="char:EOLhyphen"/>ned your Service, or his Employ<g ref="char:EOLhyphen"/>ment. He is not one that aims at his own Intereſt; for his ac<g ref="char:EOLhyphen"/>cidental Charges have been ex<g ref="char:EOLhyphen"/>traordinary; his Expences un<g ref="char:EOLhyphen"/>known and unheard of; yet ſuch as were neceſſary and pro<g ref="char:EOLhyphen"/>fitable; all which undoubtedly deſerve to be conſidered by your <hi>Serenity.</hi>
+            </p>
+            <p>
+               <pb n="83" facs="tcp:153533:58"/>
+As for my ſelf, Moſt <hi>Serene</hi> 
+               <note place="margin">An Ac<g ref="char:EOLhyphen"/>count of the Au<g ref="char:EOLhyphen"/>thor and his Em<g ref="char:EOLhyphen"/>baſſy.</note> 
+               <hi>Prince</hi> (for I have but a little more to ſay) None of your <hi>Se<g ref="char:EOLhyphen"/>renities</hi> Miniſters abroad, were ever put upon an Embaſſy more full of Trouble than that I have met with: For I found nothing but intricate Queſtions, Con<g ref="char:EOLhyphen"/>junctures not heard of, and Dif<g ref="char:EOLhyphen"/>ficulties almoſt unſurmountable. When the <hi>Emperor</hi> reſolved to unite with this <hi>Republick;</hi> and your Anſwers, contrary to his Deſire, were too long delayed, then was I looked upon with an Eye full of Diſdain; and he was pleaſed to tell me in one Fit of his Railery, That I was only at <hi>Vienna</hi> to ſend joyful News to your <hi>Serenity</hi> of ſuch a Diverſion as you deſired: For he imagined, that the Intenti<g ref="char:EOLhyphen"/>ons of your <hi>Serenity</hi> were mere<g ref="char:EOLhyphen"/>ly to gain Advantage by their Wars, and put them to lay the
+<pb n="84" facs="tcp:153533:59"/>
+Foundations of that peace which you purpoſed to conclude. I forgot not timely to inform your <hi>Serenity</hi> of all the obſcure and ſecret Negotiations which the Imperialiſts held with the <hi>Ottomans;</hi> of all the progreſs of their Treaties, as alſo the Succeſs of their Arms, without any regard of mine, to the Ex<g ref="char:EOLhyphen"/>pence I was to be at, as is evi<g ref="char:EOLhyphen"/>dent by the frequent Couriers, and ſeveral Diſpatches I ſent. I had always the good Fortune to keep a Correſpondence in all the Frontier places, and ſpared no Coſt or Labour to gain the quickeſt, and moſt certain Ad<g ref="char:EOLhyphen"/>vice of all things that paſt. I punctually tranſmitted to your <hi>Serenity,</hi> the authentick Copies of the Miſſives of the Reſident at <hi>Conſtantinople;</hi> and was not wanting to let him know all the diſtinct Particularities and Diſ<g ref="char:EOLhyphen"/>coveries
+<pb n="85" facs="tcp:153533:59"/>
+of the firſt projects, when they were but as yet in <hi>Idea.</hi>
+            </p>
+            <p>Being ſatisfied in my own Conſcience, your <hi>Serenity</hi> will permit me to flatter my ſelf ſo far as to ſay, That I have ſur<g ref="char:EOLhyphen"/>paſſed my ſelf in my own pro<g ref="char:EOLhyphen"/>per Strength, having with Ad<g ref="char:EOLhyphen"/>dreſs eluded, or overthrown the moſt unhappy Conjectures; and if I have had the good For<g ref="char:EOLhyphen"/>tune to ſerve your <hi>Serenity</hi> ac<g ref="char:EOLhyphen"/>cording to your Deſires, I have over and above ſatisfied my own; and cannot believe it to be in my power to frame any thing to my ſelf that could be more ſweet and glorious.</p>
+            <p>In the midſt of theſe difficult Troubles, Heaven was pleaſed to afford me the continued Af<g ref="char:EOLhyphen"/>fections of the Court, and its
+<pb n="86" facs="tcp:153533:60"/>
+Miniſters, who were ſo much the more favourable to me, as they did believe, that I held no Correſpondence with the <hi>Hun<g ref="char:EOLhyphen"/>garians,</hi> or Count <hi>Serini.</hi> I knew very well how to take my Times, and manage my Opportunities, ſo as to be freed of all Suſpition and Jea<g ref="char:EOLhyphen"/>louſie. I have found my ſelf ſurrounded with ſo many preſ<g ref="char:EOLhyphen"/>ſing Troubles, as neceſſarily called not only for my ut<g ref="char:EOLhyphen"/>moſt Philoſophy; but even Conſtancy it ſelf, to maſter and overcome. My Aſſign<g ref="char:EOLhyphen"/>ments <note place="margin">The hard<g ref="char:EOLhyphen"/>ſhips he endured in his Em<g ref="char:EOLhyphen"/>baſſy, by the Incur<g ref="char:EOLhyphen"/>ſions of the <hi>Tar<g ref="char:EOLhyphen"/>tars.</hi>
+               </note> totally failed, and ſo I fell into an extream Want of all Neceſſaries, through my extraordinary Expences, occa<g ref="char:EOLhyphen"/>ſioned by the Diſorders of the War, the Dearneſs of Commodities, and general ſcar<g ref="char:EOLhyphen"/>city of all things, which al<g ref="char:EOLhyphen"/>moſt amounted to a Famine.
+<pb n="87" facs="tcp:153533:60"/>
+I will not diſſemble with your <hi>Serenity</hi> at all<hi>:</hi> During the Incurſions of the <hi>Tartars,</hi> I was reduced to the laſt Ex<g ref="char:EOLhyphen"/>tremity, not knowing whom to follow in ſo general a Flight, nor with whom to ſtay in ſuch an Univerſal Conſter<g ref="char:EOLhyphen"/>nation<hi>:</hi> For the whole Coun<g ref="char:EOLhyphen"/>try ſeemed to me to be to<g ref="char:EOLhyphen"/>tally abandoned. However it was, I accommodated my ſelf to the Juncture of Time, and Will of God, with a full Re<g ref="char:EOLhyphen"/>ſignation to Divine Providence, and an entire Submiſſion to the Orders of your <hi>Serenity,</hi> having left in <hi>Germany,</hi> my Goods, my Health, and almoſt Life it ſelf.</p>
+            <p>It is true, the <hi>Emperor,</hi> be<g ref="char:EOLhyphen"/>fore <note place="margin">The Pre<g ref="char:EOLhyphen"/>ſents made him by the Emperor, and Em<g ref="char:EOLhyphen"/>preſs.</note> my Departure, Regaled me with a Diamond, and the <hi>Empreſs</hi> with a Gallantry of
+<pb n="88" facs="tcp:153533:61"/>
+Plate. Thoſe Preſents were to me ſo much the more pre<g ref="char:EOLhyphen"/>tious, becauſe I could eaſily obſerve the <hi>Court</hi> did take ſome part in this Liberality; and ſeemed, as it were, wil<g ref="char:EOLhyphen"/>ling to confirm, and approve the ſame by the Teſtimonies of their Joys.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:153533:61"/>
+            <head>THE TABLE.</head>
+            <p>
+               <list>
+                  <item>THE beginning of the Emperor's Character <hi>Pag.</hi> 2</item>
+                  <item>The Progreſs of the <hi>Ottomans</hi> Greatneſs: their Deſigns 3</item>
+                  <item>A ſtrict Alliance is the joynt Intereſt of the Empire and Republick of <hi>Venice</hi> 4</item>
+                  <item>The <hi>Turks</hi> enter <hi>Candia,</hi> and take it; the Effects thereof 5</item>
+                  <item>
+                     <hi>Waradin</hi> and <hi>Newhauſel,</hi> when ſurrend<g ref="char:EOLhyphen"/>ered 6</item>
+                  <item>The Preſervation of <hi>Vienna</hi> of great Im<g ref="char:EOLhyphen"/>portance to all Chriſtendom <hi>ibid.</hi>
+                  </item>
+                  <item>Preſent State of the <hi>Turkiſh</hi> Affairs, and why their Forces are ſo much dimi<g ref="char:EOLhyphen"/>niſhed 7</item>
+                  <item>Of the <hi>Turkiſh</hi> Militia 9</item>
+                  <item>An overſight of the Chriſtian Officers in general 10</item>
+                  <item>The <hi>Turks</hi> way of Diſcipline 11</item>
+                  <item>The <hi>Turks</hi> Improvement in Fire-Works, and other Warlike Exerciſes 12</item>
+                  <item>The Reaſon of the Chriſtians Miſcarriage at the Siege of <hi>Caniſa ibid.</hi>
+                  </item>
+                  <item>The <hi>Chriſtians</hi> and <hi>Turks</hi> compared as to their Proviſions for the Soldiery 13</item>
+                  <pb facs="tcp:153533:62"/>
+                  <item>Cenſures upon the Emperor's Proceedings in the beginning of the War 14</item>
+                  <item>The <hi>Viſier</hi> falls into the Emperor's Terri<g ref="char:EOLhyphen"/>tories without Reſiſtance 16</item>
+                  <item>The cruelty of the <hi>Tartars ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Newhauſel</hi> loſt. 18</item>
+                  <item>The Raines hinder the further Progreſs of the <hi>Turks ibid.</hi>
+                  </item>
+                  <item>The Miſerable Condition of <hi>Vienna</hi> 19</item>
+                  <item>Complaints againſt Count <hi>Portia</hi> 20</item>
+                  <item>His Character <hi>ibid.</hi>
+                  </item>
+                  <item>The ſecond Compagne begins with loſs to the Imperialiſts 21</item>
+                  <item>Fort <hi>Zerin</hi> taken <hi>ibid.</hi>
+                  </item>
+                  <item>Death of <hi>Iſmael</hi> Baſſa, with an account of the Battle of <hi>Raab</hi> 22</item>
+                  <item>The <hi>Turkiſh</hi> Valour 23</item>
+                  <item>An account of the Booty, ond the relief of <hi>Caniſa</hi> 25</item>
+                  <item>The Behaviour of the <hi>Viſier</hi> at this Battle, and his gain by the Death of <hi>Iſmael</hi> 26</item>
+                  <item>The <hi>Viſier</hi> hearkens to Peace, with the rea<g ref="char:EOLhyphen"/>ſons that induced the Emperor to it 27</item>
+                  <item>The Weakneſs of the Houſe of <hi>Auſtria</hi> 28</item>
+                  <item>The danger of hazarding a Battle 29</item>
+                  <item>The <hi>Hungarians</hi> hatred to the <hi>Turks,</hi> keeps them in Subjection to the Emperor <hi>ibid.</hi>
+                  </item>
+                  <item>The Emperor makes a Peace; blamed by all Chriſtendom 31</item>
+                  <pb facs="tcp:153533:62"/>
+                  <item>The Peace prejudicial to the <hi>Hungarians</hi> ib.</item>
+                  <item>The Invaſion of <hi>Tranſilvania</hi> by the <hi>Turks,</hi> the firſt Cauſe of this War 34</item>
+                  <item>
+                     <hi>Abafti</hi> eſtabliſhed; when <hi>ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Clauſemburg,</hi> when taken 35</item>
+                  <item>The loſs of <hi>Tranſilvania</hi> endangers all Chriſtendom 36</item>
+                  <item>Prince <hi>Ragotzki</hi>'s Death, and Charact<g ref="char:EOLhyphen"/>er 37</item>
+                  <item>Colourable pretences for a Peace 39</item>
+                  <item>The Condition of the Chriſtian Princes un<g ref="char:EOLhyphen"/>der the <hi>Turks ibid.</hi>
+                  </item>
+                  <item>The Conqueſt of <hi>Tranſilvania</hi> how advan<g ref="char:EOLhyphen"/>tagious to the <hi>Turks</hi> 40</item>
+                  <item>Count <hi>Serini</hi>'s Death, and Character 44</item>
+                  <item>Count <hi>Serini</hi>'s Grandfather's brave defence of <hi>Zigeth</hi> 45</item>
+                  <item>Count <hi>Serini</hi>'s Character continued 46</item>
+                  <item>Count <hi>Serini</hi>'s Name a Terror, and his Diſ<g ref="char:EOLhyphen"/>grace and death a joy to the <hi>Turks</hi> 47</item>
+                  <item>Count <hi>Serini</hi>'s Death differently reſented by the <hi>Hungarians</hi> and Imperialiſts <hi>ibid.</hi>
+                  </item>
+                  <item>Count <hi>Serini</hi>'s Generous offer to the <hi>Ve<g ref="char:EOLhyphen"/>netians</hi> 48</item>
+                  <item>Count <hi>Peter Serini</hi>'s Character 49</item>
+                  <item>Secret Articles of Peace between the Em<g ref="char:EOLhyphen"/>peror and <hi>Turks ibid.</hi>
+                  </item>
+                  <item>Death of Count <hi>Portia,</hi> a loſs to <hi>Piſino</hi> 51</item>
+                  <item>The Duration of the Peace uncertain 55</item>
+                  <pb facs="tcp:153533:63"/>
+                  <item>Imperialiſts hinder the <hi>Venetians</hi> Peace with the <hi>Turks</hi> 57</item>
+                  <item>Imperialiſts diſſwade the <hi>Turks</hi> from a Peace with the <hi>Venetians</hi> 59</item>
+                  <item>
+                     <hi>Spain</hi> adviſes the Emperor to a Peace with the <hi>Turks</hi> 61</item>
+                  <item>
+                     <hi>Caniſa</hi> beſieged by Count <hi>Serini</hi> 63</item>
+                  <item>State of the Emperors Affairs with <hi>Swe<g ref="char:EOLhyphen"/>den ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Poland. Brandenburgh</hi> 65, 66</item>
+                  <item>
+                     <hi>France,</hi> and <hi>Spain</hi> 67</item>
+                  <item>The <hi>Pope, Savoy.</hi> 68 69</item>
+                  <item>
+                     <hi>Florence, Modena, Mantua</hi> 70</item>
+                  <item>
+                     <hi>Germany, Auſtria,</hi> &amp;c. 71</item>
+                  <item>The <hi>German</hi> Emperor his farther Cha<g ref="char:EOLhyphen"/>racter 72</item>
+                  <item>Character of the Empreſs <hi>Leonora</hi> 74</item>
+                  <item>Death and Character of Arch-Duke <hi>Charles ibid</hi>
+                  </item>
+                  <item>Character of Prince <hi>Portia</hi> 75</item>
+                  <item>Character of the Prince of <hi>Auſburg</hi> 79</item>
+                  <item>Character of Prince <hi>Lewis,</hi> and Don <hi>Hannibal</hi> de <hi>Gonzaga</hi> 80</item>
+                  <item>
+                     <hi>Sieur Intendant</hi> of the <hi>Finances,</hi> or the Lord High Treaſurer. 81</item>
+                  <item>The Author's Secretary, <hi>Paul Reſio</hi> 82</item>
+                  <item>An account of the Author &amp; his Embaſſie 83</item>
+                  <item>The hardſhips he endured 86</item>
+                  <item>The preſents made him by the Emperor and Empreſs 87</item>
+               </list>
+            </p>
+            <pb facs="tcp:153533:63"/>
+            <pb facs="tcp:153533:64"/>
+            <pb facs="tcp:153533:64"/>
+         </div>
+      </back>
+   </text>
+</TEI>
